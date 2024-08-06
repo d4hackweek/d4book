@@ -21,9 +21,17 @@ parts:
     - file: tutorials/index
       sections:
         - file: tutorials/example/tutorial-notebook
-- caption: Projects
+- caption: Teams
   chapters:
-    - file: projects/index
+    - file: teams/index
+    - file: teams/01
+    - file: teams/02
+    - file: teams/03
+    - file: teams/04
+    - file: teams/05
+    - file: teams/06
+    - file: teams/07
+    - file: teams/08
 - caption: Reference
   chapters:
     - file: reference/glossary
