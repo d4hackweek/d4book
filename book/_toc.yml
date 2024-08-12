@@ -6,7 +6,7 @@ parts:
 - caption: Details
   chapters:
     - file: logistics
-     - title: Schedule
+    - title: Schedule
       url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=schedule
     - title: Team
       url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=team
