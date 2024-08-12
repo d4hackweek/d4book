@@ -16,11 +16,11 @@ parts:
     - file: preliminary/index
     - file: preliminary/checklist
     - file: preliminary/git
-- caption: Tutorials
-  chapters:
-    - file: tutorials/index
-      sections:
-        - file: tutorials/example/tutorial-notebook
+#- caption: Tutorials
+#  chapters:
+ #   - file: tutorials/index
+  #    sections:
+  #      - file: tutorials/example/tutorial-notebook
 - caption: Teams
   chapters:
     - file: teams/index
@@ -38,5 +38,4 @@ parts:
     - file: reference/bibliography
     - file: reference/questions
 
-exclude:
-  - tutorials/
+
