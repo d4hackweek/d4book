@@ -1,13 +1,13 @@
 timezone: UTC -7 (Pacific Daylight Time)
 tabs:
 - title: Day 1
-  date: Monday 07 August
+  date: Monday September 9th
   contents:
   - title: Introductory Session
     description: Welcome and getting to know each other.
     time: 8:30 - 9:30
     leads:
-    - Anthony Arendt
+    - Anthony Arendt, Masha, and Jorge
   - title: CryoCloud
     description: Getting connected to our shared computational resources.
     time: 9:00 - 10:00
