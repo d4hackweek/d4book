@@ -15,7 +15,7 @@ tabs:
     description: null
     time: 14:30 - 14:40
     location: null
-  - title: Discussion: AI for Data Integration
+  - title: Discussion - AI for Data Integration
     description: Guided discussion on how to use AI tools for data integration with experts in our community.
     time: 14:40-15:45
     location: Physics 520, remote option
@@ -23,8 +23,8 @@ tabs:
     description: Teams connect with other teams during 3 30-minute sessions.
     time: 15:45 - 17:15
     location: eScience Institute
-  - title: Happy hour	
-    description: null
+  - title: Happy hour
+    description: Social gathering
     time: 17:15 - 18:00
     location: To be determined
 - title: Day 2
@@ -45,7 +45,7 @@ tabs:
     description: null
     time: 10:45 - 11:00
     location: null
-  - title: Discussion: Data Integration - Challenges and Opportunities
+  - title: Data Integration Discussion - Challenges and Opportunities
     description: Guided discussion on challenges and opportunities related to integration of social and environmental datasets.
     time: 11:00 - 12:30
     location: Physics 520, remote option
@@ -90,11 +90,11 @@ tabs:
     description: null
     time: 10:30 - 10:45
     location: null
- - title: CAT Update
+  - title: CAT Update
     description: Updates from the Collaborating Across Threads team. 
     time: 10:45 - 11:00
     location: Physics 520, remote option
-  - title: Discussion: Uncertainty
+  - title: Discussion - Uncertainty
     description: Guided discussion with experts in our community on how to analyze and represent different kinds of uncertainties that surface with integration of diverse datasets.
     time: 11:00 - 12:30
     location: Physics 520, remote option
