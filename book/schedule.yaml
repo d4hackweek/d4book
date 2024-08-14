@@ -3,7 +3,7 @@ tabs:
 - title: Day 1
   date: Monday 09 September
   contents:
-  - title: Welcome & Lunch
+  - title: "Welcome & Lunch"
     description: Welcome and getting to know each other over lunch.
     time: 13:00 - 13:30
     location: eScience Institute
@@ -15,7 +15,7 @@ tabs:
     description: null
     time: 14:30 - 14:40
     location: null
-  - title: Discussion: AI for Data Integration
+  - title: "Discussion: AI for Data Integration"
     description: Guided discussion on how to use AI tools for data integration with experts in our community.
     time: 14:40-15:45
     location: Physics 520, remote option
@@ -45,7 +45,7 @@ tabs:
     description: null
     time: 10:45 - 11:00
     location: null
-  - title: Discussion: Data Integration - Challenges and Opportunities
+  - title: "Discussion: Data Integration - Challenges and Opportunities"
     description: Guided discussion on challenges and opportunities related to integration of social and environmental datasets.
     time: 11:00 - 12:30
     location: Physics 520, remote option
@@ -94,7 +94,7 @@ tabs:
     description: Updates from the Collaborating Across Threads team. 
     time: 10:45 - 11:00
     location: Physics 520, remote option
-  - title: Discussion: Uncertainty
+  - title: "Discussion: Uncertainty"
     description: Guided discussion with experts in our community on how to analyze and represent different kinds of uncertainties that surface with integration of diverse datasets.
     time: 11:00 - 12:30
     location: Physics 520, remote option
