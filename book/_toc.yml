@@ -11,11 +11,12 @@ parts:
     - title: Team
       url: https://d4hackweek.github.io/d4book/index.html?jump_to=team
     - file: CoC
-- caption: Preparation
+- caption: Preparation and Technical Details
   chapters:
     - file: preliminary/index
     - file: preliminary/checklist
     - file: preliminary/git
+    - file: preliminary/NCAR
 - caption: Tutorials
   chapters:
     - file: tutorials/index
