@@ -21,6 +21,7 @@ parts:
     - file: tutorials/index
       sections:
         - file: tutorials/example/tutorial-notebook
+        - file: tutorials/machine-learning/ml-tutorial-notebook
 - caption: Teams
   chapters:
     - file: teams/index

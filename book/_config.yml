@@ -29,6 +29,7 @@ parse:
     - colon_fence
     # Extras
     - html_image
+    - amsmath
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
