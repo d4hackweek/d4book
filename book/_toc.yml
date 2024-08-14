@@ -7,9 +7,9 @@ parts:
   chapters:
     - file: logistics
     - title: Schedule
-      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=schedule
+      url: https://d4hackweek.github.io/d4book/index.html?jump_to=schedule
     - title: Team
-      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=team
+      url: https://d4hackweek.github.io/d4book/index.html?jump_to=team
     - file: CoC
 - caption: Preparation
   chapters:
