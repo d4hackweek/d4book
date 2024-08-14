@@ -91,7 +91,7 @@ tabs:
     time: 10:30 - 10:45
     location: null
  - title: CAT Update
-    description: Updates from teh Collaborating Across Threads team. 
+    description: Updates from the Collaborating Across Threads team. 
     time: 10:45 - 11:00
     location: Physics 520, remote option
   - title: Discussion: Uncertainty
@@ -110,7 +110,7 @@ tabs:
     description: null
     time: 14:30 - 14:45
     location: null
-  - title: Evluation survey
+  - title: Evaluation survey
     description: Participants will fill out an evaluation survey for the D4 Hack Week.
     time: 14:45 - 15:00
     location: Physics 520
