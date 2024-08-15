@@ -29,6 +29,6 @@ jobs:
     - name: Deploy PR Preview
       uses: rossjrw/pr-preview-action@v1.4.7
       with:
-          source-dir: './book/_build/html'
+          source-dir: './book/_build/html/'
 
 
