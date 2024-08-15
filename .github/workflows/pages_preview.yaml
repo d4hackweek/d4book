@@ -1,0 +1,19 @@
+name: PagesPreview
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  quality-control:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
+
+    steps:
+    - name: Deploy PR Preview
+      uses: rossjrw/pr-preview-action@v1.4.7
+
+
