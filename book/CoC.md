@@ -1,39 +1,45 @@
 # Participant Conduct
 
-We require all participants in the University of Washington (UW) eScience Hackweek program to comply with the [eScience Code of Conduct](https://escience.washington.edu/about/code-of-conduct/) copied below.
+## **Our Pledge**
 
-Hackweek participants are intentionally diverse across many categories including academic standing, domain field, technical experience, etc., and we expect everyone to respect all perspectives represented. Please also read the [eScience Equity Statement](https://escience.washington.edu/about/equity-statement/).
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-## Code of Conduct
+## **Our Standards**
 
-The University of Washington eScience Institute (“eScience”) is dedicated to providing a welcoming, supportive and inclusive environment for all people, regardless of background and identity. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to gender, gender identity and expression, sexual orientation, marital status, disability, physical appearance, body size, race, age, national origin or religion. Any form of behavior to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. By participating in this community, participants accept to abide by the eScience Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved.
+Examples of behavior that contributes to a positive environment for our community include:
 
-In order to foster a positive and professional learning environment we encourage the following kinds of behaviors on all platforms and during all events, both in-person and online:
+-   Demonstrating empathy and kindness toward other people
+-   Being respectful of differing opinions, viewpoints, and experiences
+-   Giving and gracefully accepting constructive feedback
+-   Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+-   Focusing on what is best not just for us as individuals, but for the overall community
 
-* Use welcoming and inclusive language
-* Be respectful of different viewpoints and experiences
-* Gracefully provide and accept constructive criticism
-* Show courtesy and respect towards other community members
+Examples of unacceptable behavior include:
 
-Harassment includes, but is not limited to:
+-   The use of sexualized language or imagery, and sexual attention or advances of any kind
+-   Trolling, insulting or derogatory comments, and personal or political attacks
+-   Public or private harassment
+-   Publishing others' private information, such as a physical or email address, without their explicit permission
+-   Other conduct which could reasonably be considered inappropriate in a professional setting
 
-* Written or verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, marital status, disability, physical appearance, body size, race, age, national origin or religion
-* Violent threats or language directed against another person
-* Sexual language or images in public spaces
-* Deliberate intimidation, stalking, or following
-* Continuing to initiate interaction (including photography or recording) after being asked to stop
-* Publication of private communication without consent
-* Sustained disruption of talks, events, or communications
-* Insults or put downs
-* Nonconsensual or unwelcome physical contact
-* Advocating for, or encouraging, any of the above behavior
+## **Enforcement Responsibilities**
 
-Participants asked to stop any harassing behavior are expected to comply immediately. This applies to any eScience events or activities, either online or in-person. Participants violating these rules may be sanctioned or expelled from participation at the discretion of eScience staff. The organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. 
+Workshop organizers are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
-Harassment and other code of conduct violations reduce the value of our programming for everyone. If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. You can make a report either personally or anonymously. To personally report, contact the eScience executive director, Sarah Stone, at sstone3@uw.edu or another trusted staff member. Anonymous reports can be made [here](https://bit.ly/uwhackweekfeedback). If you are experiencing a problem or issue that needs to be addressed by someone outside the program, you may contact the UW Office of the Ombud at ombuds@uw.edu or 206-543-6028.
+Workshop organizers have the right and responsibility to remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
-[SafeCampus](https://www.washington.edu/safecampus/) (206-685-7233) is also available at any time to anonymously discuss safety and well-being concerns for yourself and others. SafeCampus is the University of Washington’s violence-prevention and response program, providing resources to UW students, staff, faculty and community members. For more information, visit their [What to Expect](https://www.washington.edu/safecampus/what-to-expect) page.
+## **Scope**
 
-Thank you for helping to make our institute inclusive, welcoming and safe.
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
+## **Enforcement**
 
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the workshop organizers responsible for enforcement at [d4hackweek\@uw.edu](mailto:d4hackweek@uw.edu){.email}. All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+
+## **Attribution**
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.0, available at <https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
+
+Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
+
+For answers to common questions about this code of conduct, see the FAQ at <https://www.contributor-covenant.org/faq>. Translations are available at <https://www.contributor-covenant.org/translations>.
