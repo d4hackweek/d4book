@@ -1,13 +1,13 @@
 repo_directory: html
-name: UW Hackweek
+name: D4 Hackweek
 apply:
-  url: '#'
-  title: Application coming soon
+  url: 'https://d4hackweek.github.io'
+  title: D4 Hack Week
 banner:
   description: An awesome learning event.
-  start_date: XX Month
-  end_date: XX Month
-  year: 2022
+  start_date: 09 September
+  end_date: 12 September
+  year: 2024
   location: Seattle, WA
   links:
   - url: intro.html
@@ -25,8 +25,7 @@ about:
     - url: '#'
       title: A sample link
       new_window: True
-applicant_info: UW Hackweek 2022 will take place in October 2022 (virtual or in-person
-  TBD). Applications have not yet opened, but should be anticipated in September 2022.
+applicant_info: D4 Hackweek 2024 will take place in September 2024. Applications already closed.
 team:
   !include team/team.yaml
 schedule:
@@ -40,7 +39,7 @@ sponsors:
 footer:
   social:
   - icon: github
-    link: https://github.com/uwhackweek/
+    link: https://github.com/d4hackweek/
 _copy_without_render:
 - assets
 _extensions:

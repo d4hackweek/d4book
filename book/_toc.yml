@@ -7,15 +7,16 @@ parts:
   chapters:
     - file: logistics
     - title: Schedule
-      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=schedule
+      url: https://d4hackweek.github.io/d4book/index.html?jump_to=schedule
     - title: Team
-      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=team
+      url: https://d4hackweek.github.io/d4book/index.html?jump_to=team
     - file: CoC
-- caption: Preparation
+- caption: Preparation and Technical Details
   chapters:
     - file: preliminary/index
     - file: preliminary/checklist
     - file: preliminary/git
+    - file: preliminary/NCAR
 - caption: Tutorials
   chapters:
     - file: tutorials/index
@@ -37,4 +38,5 @@ parts:
     - file: reference/glossary
     - file: reference/bibliography
     - file: reference/questions
+
 

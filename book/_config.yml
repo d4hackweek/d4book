@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Hackweek Template
-author: eScience Institute, University of Washington
+title: D4 Hackweek
+author: eScience Institute, University of Washington, NSF NCAR, University of Oklahoma, Colorado State University
 logo: logo.png
 only_build_toc_files: true
 
@@ -10,11 +10,11 @@ parse:
   # https://jupyterbook.org/content/content-blocks.html?highlight=myst%20substitution#define-substitutions-for-your-whole-book
   # https://jupyterbook.org/content/content-blocks.html#using-substitutions-in-links
   myst_substitutions:
-    hackweek: "uwhackweek"
-    dates: "October ? to ?, 2021"
-    github_org_url: "https://github.com/uwhackweek"
-    book_repo: "jupyterbook-template"
-    website_url: "https://book-template.hackweek.io"
+    hackweek: "d4hackweek"
+    dates: "September 9 to 12, 2024"
+    github_org_url: "https://github.com/d4hackweek"
+    book_repo: "d4book"
+    website_url: "https://d4hackweek.github.io"
     jupyterhub_url: "https://INSERT_JUPYTERHUB_URL"
     slack_workspace_url: "https://INSERT_SLACK_URL"
     contact_email: "INSERT_CONTACT_EMAIL@UW.COM"
@@ -53,7 +53,7 @@ launch_buttons:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/uwhackweek/jupyterbook-template # Online location of your book
+  url: https://github.com/d4hackweek/d4book # Online location of your book
   path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 

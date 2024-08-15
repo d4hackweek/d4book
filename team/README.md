@@ -1,7 +1,7 @@
 # The team folder
 
 All members of the organizing team should add themselves to the webpage.
-This folder contains a file for each person describing themselves.
+This folder contains a file for each person describing themselves. Each team should provide a brief overview of their project.
 
 ## Adding a new member
 Follow these steps to add yourself:
