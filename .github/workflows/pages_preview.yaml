@@ -1,9 +1,10 @@
 name: PagesPreview
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
+  pull-requests: write
+
+concurrency: ci-${{ github.ref }}
 
 on:
   pull_request:
