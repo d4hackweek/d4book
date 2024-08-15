@@ -1,0 +1,18 @@
+- title: David John Gagne
+  avatar: https://avatars.githubusercontent.com/u/874553?v=4?s=100
+  role: Machine Learning Scientist II
+  organizations:
+    - name: NSF National Center for Atmospheric Research
+    - name: Machine Integration and Learning for Earth Systems
+  bio: David John runs the MILES group at NSF NCAR. 
+  expertise:
+    - machine learning
+    - Python
+    - meteorology
+    - data integration
+    - uncertainty quantification
+  social:
+    - icon: github
+      link: https://github.com/djgagne
+  user_groups:
+    - Data Infrastructure

@@ -4,6 +4,9 @@ on:
   pull_request_target:
     types: [labeled, synchronize]
 
+permissions:
+  pull-requests: write
+
 jobs:
   add-preview:
     runs-on: ubuntu-latest
