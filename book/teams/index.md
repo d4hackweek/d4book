@@ -16,4 +16,4 @@ Here is our current list of project for our {{dates}} {{ hackweek }} hackweek:
 | [UMiami, CU Boulder & Portland State](06)    | Ethan Sharygin, Justin Stoler, and Mary Angelica Painter                                          |
 | [Claim to Flame ](07)                          | Joan Casey, Lauren Wilner, Vivian Do, Heather McBrien, David Coomes, and Karen Chen               |
 | [Floaters](08)                               | Jason Stock, Tyler Fricker, and Patrick Greiner                                                   |
-| [CAT Demonstration Project](09)                               |  Andrea Schumacher, Julie Demuth, DJ Gagne, Jorge Celis, Amy McGovern, Sara Curran, Sameer Shah, Masha Vernik, Ann Bostrom|
+| [CAT Demonstration Project](09)             |  Andrea Schumacher, Julie Demuth, DJ Gagne, Jorge Celis, Amy McGovern, Sara Curran, Sameer Shah, Masha Vernik, Ann Bostrom |
