@@ -43,19 +43,6 @@
                     </a>
                 </div>
 
-                {%- if 'apply' in cookiecutter %}
-                <div class="navbar-btn order-lg-2">
-                    <a class="btn btn-secondary"
-                       {%- if 'url' in cookiecutter.apply %}
-                       href="{{ cookiecutter.apply.url }}"
-                       target="_blank"
-                       {%- endif %}
-                    >
-                    {{ cookiecutter.apply.title }}
-                    </a>
-                </div>
-                {%- endif %}
-
                 <button class="navbar-toggler" type="button"
                         data-bs-toggle="collapse" data-bs-target="#navigation"
                         aria-controls="navigation" aria-expanded="false"
@@ -151,26 +138,10 @@
             <a class="btn btn-secondary btn-lg"
                href="{{ cookiecutter.about.learn_more }}"
                target="_blank">
-                Learn about "Hackweeks"
+                Learn more
                 <i class="fas fa-external-link-alt"></i>
             </a>
         </div>
-
-        {%- if 'links' in cookiecutter.about %}
-            <div class="hero-cta text-center mb-4">
-                <h4 class="mb-3 text-center">
-                    Past Events:
-                </h4>
-                {%- for link in cookiecutter.about.links %}
-                    <a class="btn btn-primary btn-lg mb-3 mx-2"
-                       href="{{ link.url }}"
-                        {{ 'target="_blank"' if link.new_window == 'True' else '' }}
-                    >
-                        {{ link.title }}
-                    </a>
-                {%- endfor %}
-            </div>
-        {%- endif %}
 
         <div id="countdown-intro" class="event-countdown text-center mb-4">
             <h4 class="countdown-intro mb-2 text-center">
@@ -189,18 +160,6 @@
         </div>
     </div>
 
-    <div class="media-block theme-bg-primary py-5">
-        <div class="container">
-            <h4 class="text-white text-center mb-3">
-                Information for Applicants
-            </h4>
-            <div
-                class="section-intro text-center single-col-max mx-auto text-white mb-3">
-                {{cookiecutter.applicant_info}}
-            </div>
-        </div>
-    </div>
-</section>
 <!--//about-section-->
 
 {%- if cookiecutter.schedule %}

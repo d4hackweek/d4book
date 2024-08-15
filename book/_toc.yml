@@ -38,5 +38,6 @@ parts:
     - file: reference/glossary
     - file: reference/bibliography
     - file: reference/questions
+    - file: reference/support
 
 

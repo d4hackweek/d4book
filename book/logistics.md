@@ -1,6 +1,6 @@
 # Event Logistics
 
-For questions related to travel, reimbursement, lodging, etc. please reach out to Maddie Farris at [csde-prgm-coord\@uw.edu](mailto:csde-prgm-coord@uw.edu){.email}. Please send all your receipts Maddie before the end of September after the Hack Week has completed. If you have no receipts and just want to claim your meal per diem, reach out to Maddie via email to start the reimbursement process and to discuss further information that I may need.
+For questions related to travel, reimbursement, lodging, etc. please reach out to Maddie Farris at [csde-prgm-coord\@uw.edu](mailto:csde-prgm-coord@uw.edu). Please send all your receipts Maddie before the end of September after the Hack Week has completed. If you have no receipts and just want to claim your meal per diem, reach out to Maddie via email to start the reimbursement process and to discuss further information that I may need.
 
 ## Wireless
 
@@ -31,6 +31,7 @@ For questions related to travel, reimbursement, lodging, etc. please reach out t
 -   Meal Per Diem in Seattle, Washington is: \$19/Breakfast, \$22/Lunch, \$38/Dinner
 -   Reach out to Maddie to be reimbursed for meals per diem at [csde-prgm-coord\@uw.edu](mailto:csde-prgm-coord@uw.edu){.email}.
 -   Thursday evening's dinner will take place at Mamma Melina Ristorante, at 5101 25th Ave NE.
+<!--- 
 -   The table below notes which meals are catered or per diem.
 
 | Day       | Meal      | Catered or per diem                                      |
@@ -47,6 +48,8 @@ For questions related to travel, reimbursement, lodging, etc. please reach out t
 | Thursday  | Lunch     | Catered                                                  |
 | Thursday  | Dinner    | Catered at Mamma Melina Restaurant                       |
 | Friday    | Breakfast | Hotel breakfast                                          |
+
+ ---> 
 
 ## Travel
 
