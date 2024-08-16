@@ -17,11 +17,12 @@ This JupyterBook contains the information you need as a participant in the D4 Ha
 * GitHub organization: {{ github_org_url}}
 * Agenda: https://d4hackweek.github.io/d4book/index.html?jump_to=schedule
 `````
-
-![banner](img/CSDE-logo.png)
-![banner](img/eScience-logo.png)
-![banner](img/NOAA-logo.png)
-![banner](img/NCAR-logo.png)
+<p align="center">
+    <img src="img/CSDE-logo.png" alt="CSDE logo" width="300" height="100"/>
+    <img src="img/eScience-logo.png" alt="eScience logo" width="300" height="100"/>
+    <img src="img/NOAA-logo.png" alt="NOAA logo" width="250" height="200"/>
+    <img src="img/NCAR-logo.png" alt="NCAR logo" width="300" height="150"/>
+</p>
 
 <!--- alternative image code, generating error: 
 :::{figure-md} 
