@@ -1,131 +1,135 @@
 timezone: UTC -7 (Pacific Daylight Time)
 tabs:
 - title: Day 1
-  date: Monday 07 August
+  date: Monday 09 September
   contents:
-  - title: Introductory Session
-    description: Welcome and getting to know each other.
-    time: 8:30 - 9:30
-    leads:
-    - Anthony Arendt
-  - title: CryoCloud
-    description: Getting connected to our shared computational resources.
-    time: 9:00 - 10:00
-    leads:
-    - Tasha Snow
-  - title: BREAK
+  - title: Welcome & Lunch
+    description: Welcome and getting to know each other over lunch.
+    time: 13:00 - 13:30
+    location: eScience Institute
+  - title: Team Planning/Floaters Huddle
+    description: Teams revisit their goals for the week while floaters connect on how to support teams.
+    time: 13:30 - 14:30
+    location: eScience Institute
+  - title: Break
     description: null
-    time: 10:00 - 10:30
-  - title: Best Practices for Collaborative Development
-    description: null
-    time: 10:30 - 11:00
-    leads:
-    - Naomi Alterman
-  - title: ICESat-2 Mission Overview and Data
-    description: Summary of ICESat-2 datasets, algorithms and science applications.
-    time: 11:00 - 12:00
-    leads:
-    - Ben Smith
-  - title: LUNCH
-    description: null
-    time: 12:00 - 13:00
-  - title: OPEN PROJECT WORK
-    description: null
-    time: 13:00 - 17:00
+    time: 14:30 - 14:40
+    location: null
+  - title: Discussion - AI for Data Integration
+    description: Guided discussion on how to use AI tools for data integration with experts in our community.
+    time: 14:40-15:45
+    location: Physics 520, remote option
+  - title: Team Speed Dating
+    description: Teams connect with other teams during 3 30-minute sessions.
+    time: 15:45 - 17:15
+    location: eScience Institute
+  - title: Happy Hour
+    description: Social gathering
+    time: 17:15 - 18:00
+    location: To be determined
 - title: Day 2
-  date: Tuesday 08 August
+  date: Tuesday 10 September
   contents:
-  - title: Cloud data access and data formats
-    description: Approaches for accessing and subsetting ICESat-2 data in a cloud
-      environment.
-    time: 8:30 - 10:00
-    leads:
-    - Amy Steiker
-  - title: BREAK
+  - title: Coffee Connect & Standup
+    description: Teams provide 2-minute updates on their progress so far and goals for the day over coffee and refreshments.
+    time: 8:30 - 9:00
+    location: Physics 520
+  - title: CAT Presentation
+    description: The Collaborating Across Threads (CAT) team will share methods and preliminary results from their analyses.
+    time: 9:00 - 9:45
+    location: Physics 520, remote option
+  - title: Hands-on Exercise
+    description: To be determined
+    time: 9:45-10:45
+  - title: Break
     description: null
-    time: 10:00 - 10:30
-  - title: Open source development / Object Oriented Programming
-    description: Best practices for collaborative coding and object oriented programming.
-    time: 10:30 - 11:30
-    leads:
-    - Romina Piunno
-  - title: Group STAND-UP
-    description: Demonstration of a daily stand-up as part of your project collaboration.
-    time: 11:30 - 12:00
-    leads:
-    - Anthony Arendt
-  - title: LUNCH
+    time: 10:45 - 11:00
+    location: null
+  - title: Data Integration Discussion - Challenges and Opportunities
+    description: Guided discussion on challenges and opportunities related to integration of social and environmental datasets.
+    time: 11:00 - 12:30
+    location: Physics 520, remote option
+  - title: Lunch
     description: null
-    time: 12:00 - 13:00
-  - title: OPEN PROJECT WORK
+    time: 12:30 - 13:30
+  - title: Team work time
     description: null
-    time: 13:00 - 17:00
+    time: 13:30 - 17:00
+    location: Teams will be assigned workspaces and are welcome to incorporate remote members.
 - title: Day 3
-  date: Wednesday 09 August
+  date: Wednesday 11 September
   contents:
-  - title: 'Applications: atmosphere'
-    description: Applications of ICESat-2 data to atmospheric sciences.
-    time: 8:30 - 9:15
-    leads:
-    - Zheng Liu
-  - title: 'Applications: bathymetry'
-    description: Applications of ICESat-2 data to bathymetric sciences.
-    time: 9:30 - 10:15
-    leads:
-    - Jonathan Markel
-  - title: BREAK
-    description: null
-    time: 10:00 - 10:30
-  - title: 'Applications: Land Ice'
-    description: Applications of ICESat-2 data to studies of land ice.
-    time: 10:30 - 11:15
-    leads:
-    - Tian LI
-  - title: Group STAND-UP & OPEN PROJECT WORK
-    description: null
-    time: 11:15 - 12:00
-  - title: LUNCH
-    description: null
-    time: 12:00 - 13:00
-  - title: OPEN PROJECT WORK
-    description: null
-    time: 13:00 - 17:00
-- title: Day 4
-  date: Thursday 10 August
-  contents:
-  - title: 'Applications: inland hydrology'
-    description: Applications of ICESat-2 data to inland hydrology.
-    time: 8:30 - 9:15
-    leads:
-    - Shamsudeen Yekeen
-  - title: 'Applications: sea ice'
-    description: Applications of ICESat-2 data to sea ice.
-    time: 9:30 - 10:15
-    leads:
-    - Younghyun Koo
-  - title: BREAK
-    description: null
-    time: 10:00 - 10:30
-  - title: 'Applications: snow depth'
-    description: Applications of ICESat-2 data to snow studies.
-    time: 10:30 - 11:15
-    leads:
-    - Karina Zikan
-  - title: Group STAND-UP & OPEN PROJECT WORK
-    description: null
-    time: 11:15 - 12:00
-  - title: LUNCH
-    description: null
-    time: 12:00 - 13:00
-  - title: OPEN PROJECT WORK
-    description: null
-    time: 13:00 - 17:00
-- title: Day 5
-  date: Friday 11 August
-  contents:
-  - title: Openscapes Mentor Breakfast
-    description: Exploring mentor training opportunities in collaboration with NASA
-      Openscapes Champions program.
+  - title: Coffee Connect & Standup
+    description: Teams provide and floaters provide 5-minute updates on their progress so far and goals for the day over coffee and refreshments.
     time: 8:30 - 9:30
-    leads:
-    - ''
+    location: Physics 520
+  - title: Team Work Time
+    description: A dedicated day for team work time, with lunch and dinner on your own.
+    time: 9:30 - 17:00
+    location: Teams will be assigned workspaces and are welcome to incorporate remote members.
+  - title: Floater Drop-in Hours
+    description: Floaters will be available for drop-in questions.
+    time: 9:30 - 10:30
+    location: eScience Institute
+  - title: Floater Drop-in Hours
+    description: null
+    time: 13:30 - 14:30
+    location: eScience Institute
+- title: Day 4
+  date: Thursday 12 September
+  contents:
+  - title: Coffee Connect
+    description: null
+    time: 8:30 - 9:00
+    location: Physics 520
+  - title: Presentations
+    description: Three teams will have 30 minutes each to present their project and answer questions.
+    time: 9:00 - 10:30
+    location: Physics 520, remote option
+  - title: Break
+    description: null
+    time: 10:30 - 10:45
+    location: null
+  - title: CAT Update
+    description: Updates from the Collaborating Across Threads team. 
+    time: 10:45 - 11:00
+    location: Physics 520, remote option
+  - title: Discussion - Uncertainty
+    description: Guided discussion with experts in our community on how to analyze and represent different kinds of uncertainties that surface with integration of diverse datasets.
+    time: 11:00 - 12:30
+    location: Physics 520, remote option
+  - title: Lunch
+    description: null
+    time: 12:30 - 13:30
+    location: null
+  - title: Presentations
+    description: Two teams will have 30 minutes each to present their project and answer questions.
+    time: 13:30 - 14:30
+    location: Physics 520, remote option
+  - title: Break
+    description: null
+    time: 14:30 - 14:45
+    location: null
+  - title: Evaluation Survey
+    description: Participants will fill out an evaluation survey for the D4 Hack Week.
+    time: 14:45 - 15:00
+    location: Physics 520
+  - title: Presentations
+    description: Two teams will have 30 minutes each to present their project and answer questions.
+    time: 15:00 - 16:00
+    location: Physics 520, remote option
+  - title: Closing discussion
+    description: Floaters will kickoff, followed by open discussion around key takeaways from the hack week. 
+    time: 16:00 - 16:45
+    location: Physics 520, remote option
+  - title: Dinner
+    description: null
+    time: 18:00 - 20:00
+    location: Mamma Melina
+- title: Day 5
+  date: Friday 13 September
+  contents:
+  - title: Debrief & next steps
+    description: Discussion for debriefing the hack week and discussing next steps (optional for participants; organizers expected to attend).
+    time: 10:00 - 12:00
+    location: eScience Institute - Meeting Room

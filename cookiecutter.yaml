@@ -1,14 +1,14 @@
 repo_directory: html
-name: UW Hackweek
+name: D4 Hackweek
 apply:
-  url: '#'
-  title: Application coming soon
+  url: 'https://d4hackweek.github.io'
+  title: D4 Hack Week
 banner:
-  description: An awesome learning event.
-  start_date: XX Month
-  end_date: XX Month
-  year: 2022
-  location: Seattle, WA
+  description: Disasters, Demography, Disparities, and Decisions
+  start_date: 09 September
+  end_date: 13 September
+  year: 2024
+  location: University of Washington - Seattle
   links:
   - url: intro.html
     title: Event Jupyter Book
@@ -17,16 +17,13 @@ banner:
 # The opening session of the event with UTC offset
 event_countdown: "2024-08-07T08:30:00-07:00"
 about:
-  description: Hackweeks are participant-driven events that strive to create
-    welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science
-  learn_more: https://escience.washington.edu/using-data-science/hackweeks
+  description: The D4 Hack Week hosted at the University of Washington tackles challenges associated with integrating social and weather datasets across spatial and temporal scales, in order to investigate demographic disparities and decision-making related to severe weather events like flooding, hurricanes, and wildfire.
+  learn_more: https://csde.washington.edu/research/2024-d4-workshop/
   links:
     - url: '#'
       title: A sample link
       new_window: True
-applicant_info: UW Hackweek 2022 will take place in October 2022 (virtual or in-person
-  TBD). Applications have not yet opened, but should be anticipated in September 2022.
+applicant_info: D4 Hackweek 2024 will take place in September 2024. Applications already closed.
 team:
   !include team/team.yaml
 schedule:
@@ -34,13 +31,16 @@ schedule:
 sponsors:
   description: ''
   organizations:
+  - name: UW Center for Studies in Demography and Ecology
+    website: https://csde.washington.edu/
+    logo_url: https://csde.washington.edu/wp-content/uploads/2024/02/CSDE_Logo.png
   - name: eScience Institute
     website: ''
     logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
 footer:
   social:
   - icon: github
-    link: https://github.com/uwhackweek/
+    link: https://github.com/d4hackweek/
 _copy_without_render:
 - assets
 _extensions:
