@@ -1,10 +1,5 @@
 name: NetlifyPreview
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 on:
   pull_request_target:
     types: [labeled, synchronize]
