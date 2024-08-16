@@ -1,0 +1,23 @@
+- title: Jason Stock
+  avatar: https://cs.colostate.edu/~stock/misc/headshot.jpeg
+  role: Graduate Research Assistant
+  organizations:
+    - name: Colorado State University
+    - name: AI2ES (NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography
+  bio: A computer science PhD candidate at Colorado State University (prev. MS and BS), focusing on machine learning for weather and climate. 
+  He is currently a member of the NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES) and is collaborating with the Cooperative Institute for Research in the Atmosphere (CIRA). 
+  His primary research interests are in neuro-inspired attention, generative diffusion models, and interpretable-by-design algorithms. 
+  He was previously interning at NVIDIA and Maxar, developing AI algorithms for atmospheric science applications, and at Boeing as a software engineer.
+  expertise:
+    - Machine Learning
+    - Artificial Intelligence
+    - Weather and Climate
+  social:
+    - icon: github
+      link: https://github.com/stockeh
+    - icon: twitter
+      link: Link to your Twitter profile
+    - icon: linkedin
+      link: https://www.linkedin.com/in/jason-stock/
+  user_groups:
+    - Data Infrastructure

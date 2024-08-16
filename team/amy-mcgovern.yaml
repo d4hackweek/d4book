@@ -1,0 +1,13 @@
+- title: Amy McGovern
+  avatar: 
+  role: Principal Investigator
+  organizations:
+    - name: AI2ES (NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography)
+    - name: University of Oklahoma
+  bio: A short bio about yourself.
+    You can have multiple lines. Just watch that you have two leading spaces at the beginning.
+  expertise:
+    - skill 1
+    - skill 2
+  social:
+  user_groups:
