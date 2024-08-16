@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: D4 Hackweek
-author: eScience Institute, University of Washington, NSF NCAR, University of Oklahoma, Colorado State University
+author: eScience Institute, University of Washington, UW Center for Studies in Demography and Ecology, NSF NCAR, University of Oklahoma, Colorado State University
 logo: logo.png
 only_build_toc_files: true
 
