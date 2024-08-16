@@ -1,10 +1,5 @@
 name: NetlifyPreview
 
-permissions: 
-  issues: write
-  pull-requests: write
-  content: write
-
 on:
   pull_request_target:
     types: [labeled, synchronize]
