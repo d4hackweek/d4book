@@ -22,5 +22,6 @@ dependencies:
   - jinja2>=2.11
   - pygments>=2.6.1
   - pymdown-extensions>=7.1
+  - torch
   - pip:
     - jinja-markdown==1.210911
