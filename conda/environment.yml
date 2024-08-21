@@ -22,6 +22,10 @@ dependencies:
   - jinja2>=2.11
   - pygments>=2.6.1
   - pymdown-extensions>=7.1
-  - torch
+  - pytorch
+  - numpy<2
+  - torchvision
+  - scikit-learn
+  - matplotlib
   - pip:
     - jinja-markdown==1.210911
