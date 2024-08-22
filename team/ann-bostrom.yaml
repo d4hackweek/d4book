@@ -1,11 +1,14 @@
 - title: Ann Bostrom
-  avatar: 
+  avatar:
   role: Weyerhaeuser Endowed Professor in Environmental Policy
   organizations:
     - name: University of Washington - Evans School of Public Policy and Governance
-  bio: 
+  bio:
   expertise:
+    - Social Science
   social:
+    - icon: linkedin
+      link: https://www.linkedin.com/in/ann-bostrom-a6870010/
   user_groups:
-  - Core Organizing Team
- 
+    - Core Organizing Team
+
