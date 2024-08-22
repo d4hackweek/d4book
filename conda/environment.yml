@@ -6,6 +6,7 @@
 name: hackweek
 channels:
   - conda-forge
+  - pytorch
 dependencies:
   - ipyleaflet
   - jupyter-book<2
