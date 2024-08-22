@@ -1,0 +1,5 @@
+pandas==2.0.3
+ftplib (standard library)
+gzip (standard library)
+time (standard library)
+glob (standard library)
