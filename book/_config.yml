@@ -41,7 +41,6 @@ execute:
   allow_errors: false
   # Per-cell notebook execution limit (seconds)
   timeout: 300
-  show_tb: true
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -65,11 +64,12 @@ bibtex_bibfiles:
 sphinx:
   config:
     bibtex_reference_style: author_year  # or label, super, \supercite
+    nb_execution_show_tb: True
     nb_custom_formats:
         .py:
             - jupytext.reads
             - fmt: py:percent
-
+   
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
