@@ -1,0 +1,19 @@
+- title: Masha Vernik
+  avatar: https://sefs.uw.edu/wp-content/uploads/sites/22/2023/11/DSC_2947_2-412x607.jpg
+  role: Graduate Research Assistant
+  organizations:
+    - name: University of Washington School of Environmental and Forest Sciences
+  bio: "Masha Vernik is a graduate student at the University of Washington’s School of Environmental and Forest Sciences. 
+  She studies how local farmers are adapting to climate change and is especially interested in the intersections between seed diversity and climate resilience.
+  She employs qualitative and quantitative methods that include conducting interviews, evaluating survey data, and analyzing satellite imagery. 
+  Her learning extends beyond the classroom and into the field as an avid gardener and part-time farmworker. She graduated from Boston University with a B.A. in International Relations."
+  expertise:
+    - Organic agriculture 
+    - Climate adaptation
+    - Agrobiodiversity
+  social:
+    - icon: linkedin
+      link: https://www.linkedin.com/in/mashavernik
+  user_groups:
+    - Core Organizing Team
+    - Data Infrastructure 
