@@ -4,7 +4,7 @@ Hackweek tutorials are learning-oriented and guide participants through a step-w
 
 Below you'll find a table keeping track of all tutorials presented at this event:
 
-| Tutorial | Topics | Datasets |
-| -  | - | - |
-| [Machine Learning](./machine-learning/ml-tutorial-notebook.ipynb) | Machine Learning, Deep Learning | n/a |  
-| [Storm Events Database](./Storm_Events/Storm_Events_Tutorial.ipynb) | Downloading and analyzing storm events data | NOAA Storm Events Data |
+| Tutorial                                                            | Topics                                      | Datasets                  |
+|---------------------------------------------------------------------|---------------------------------------------|---------------------------|
+| [Machine Learning](./machine-learning/ml-tutorial-notebook.ipynb)   | Machine Learning, Deep Learning             | California Housing, MNIST |
+| [Storm Events Database](./Storm_Events/Storm_Events_Tutorial.ipynb) | Downloading and analyzing storm events data | NOAA Storm Events Data    |
