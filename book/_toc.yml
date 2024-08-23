@@ -22,7 +22,7 @@ parts:
   chapters:
     - file: tutorials/index
       sections:
-        - file: tutorials/example/tutorial-notebook
+        - file: tutorials/Storm_Events/Storm_Events_Tutorial.ipynb
 - caption: Teams
   chapters:
     - file: teams/index

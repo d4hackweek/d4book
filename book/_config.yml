@@ -15,7 +15,7 @@ parse:
     github_org_url: "https://github.com/d4hackweek"
     book_repo: "d4book"
     website_url: "https://d4hackweek.github.io"
-    jupyterhub_url: "https://jupyterhub.hpc.ucar.edu/"
+    jupyterhub_url: "https://jupyterhub.hpc.ucar.edu"
     slack_workspace_url: "https://INSERT_SLACK_URL"
     contact_email: "d4hackweek@uw.edu"
     dataset: "INSERT_DATA_SET_NAME"
@@ -29,7 +29,7 @@ parse:
     - colon_fence
     # Extras
     - html_image
-
+    - amsmath
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
@@ -63,10 +63,14 @@ bibtex_bibfiles:
 sphinx:
   config:
     bibtex_reference_style: author_year  # or label, super, \supercite
+    nb_execution_show_tb: True
     nb_custom_formats:
         .py:
             - jupytext.reads
             - fmt: py:percent
+        .Rmd:
+            - jupytext.reads
+            - fmt: Rmd
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
