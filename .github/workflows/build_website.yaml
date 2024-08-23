@@ -40,3 +40,8 @@ jobs:
         jb-cache: false
         publish-to-gh: false
         jb-save: true
+      env:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        CENSUS_API: ${{ secrets.CENSUS_API }}
+        NCDC_CDO_TOKEN: ${{ secrets.NCDC_CDO_TOKEN }}

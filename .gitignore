@@ -145,6 +145,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Do not display tutorials
-book/tutorials/
 

@@ -30,5 +30,10 @@ dependencies:
   - matplotlib
   - pandas
   - scipy
+  - folium
+  - geopandas
+  - tropycal
+  - xarray
+  - cartopy
   - pip:
     - jinja-markdown==1.210911
