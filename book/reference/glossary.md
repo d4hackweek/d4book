@@ -2,7 +2,6 @@
 
 ## Tools and Technology (general)
 
-```{glossary}
 [Binder](https://mybinder.org)
   A free, public service for running reproducible interactive computing
   environments. Binder is a 100% open source infrastructure that is run by
@@ -58,24 +57,42 @@
   open-source web application that allows you to create and share documents that
   contain live code, equations, visualizations and narrative text.
 
-[MyST](https://myst-parser.readthedocs.io)
-  Markedly Structured Text (MyST) is a rich and extensible flavor of Markdown
-  meant for technical documentation and publishing. It is used by Jupyter Book.
+[Machine Learning Models](https://www.databricks.com/glossary/machine-learning-models) 
+  A machine learning model is a program that can find patterns or make decisions from a previously unseen dataset.
 
-[Slack](https://slack.com)
-  A communication platform that we use to share information. We use separate channels
-  for each project and also rely on the video features. If possible we recommend
-  [downloading the Slack app](https://slack.com/downloads). If your agency does not allow
-  you to use the app, you can still interface with Slack in a web browser.
+[AI](https://www.ibm.com/topics/artificial-intelligence) 
+  Artificial intelligence, or AI, is technology that enables computers and machines to simulate human intelligence and problem-solving capabilities.
 
-```
+## Organizations
 
-## Topical (event specific)
-```{glossary}
-[ICESat-2](https://icesat-2.gsfc.nasa.gov)
-  Ice, Cloud, and land Elevation Satellite (2).
-  Launched in September 2018, the ICESat-2 satellite continues the ICESat and IceBridge missions to
-  collect multi-year elevation data.
-  Mission science goals focus on assessing changing land and sea ice and forest heights.
+[D4](https://csde.washington.edu/research/2024-d4-workshop/) 
+  Disasters, Demography, Disparities, and Decisions.
 
-  ```
+[CSDE](https://csde.washington.edu/)  
+  Center for Studies in Demography and Ecology
+
+[NOAA](https://www.noaa.gov/)
+  National Oceanic and Atmospheric Administration
+  
+[AI2ES](https://www.ai2es.org/) 
+  NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography
+
+## Datasets
+
+[SHELDUS](https://cemhs.asu.edu/sheldus)
+  County-level hazard data set for the U.S. and covers natural hazards such thunderstorms, hurricanes, floods, wildfires, and tornados as well as perils such as flash floods, heavy rainfall, etc. 
+
+[EM-Dat](https://www.emdat.be/)
+  EM-DAT contains data on the occurrence and impacts of over 26,000 mass disasters worldwide from 1900 to the present day. The database is compiled from various sources, including UN agencies, non-governmental organizations, reinsurance companies, research institutes, and press agencies.  
+
+[FEMA](https://www.fema.gov/)
+  Federal Emergency Management Agency 
+
+[ACS](https://www.census.gov/programs-surveys/acs/data.html)
+  The American Community Survey (ACS) releases new data every year through a variety of data tables that you can access with different data tools. 
+
+[UWDC](https://dcollab.uw.edu/)
+  The UW Data Collaborative (UWDC) provides NIST 800-171 aligned computer infrastructure to harness innovative, but hard-to-access and highly sensitive data for the development of novel, high-quality research and evidence-driven policy making.  
+
+[NWFSRDC](https://www.census.gov/about/adrm/fsrdc.html)
+  The Northwest Federal Statistical Research Data Centers (NWFSRDC) is the Northwest FSRDC, which are partnerships between federal statistical agencies and leading research institutions. FSRDCs provide secure environments supporting qualified researchers using restricted-access data while protecting respondent confidentiality
