@@ -1,17 +1,26 @@
-# Storm Events Database Tutorial
 
-This tutorial demonstrates how to download and work with the Storm Events Database. The tutorial is aimed at social scientists who are new to this type of data.
+# Working with the Storm Events Data
+A brief description of what this project does and who it's for.
 
-## Files Included
-- **Storm_Events_Tutoral.ipynb**: The main Jupyter Notebook tutorial.
+## Table of Contents
 
-## Prerequisites
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-This project assumes that you have `pandas` installed in your Python environment.
+## Installation
 
-## How to Use
-1. **Run the Notebook**: Open `Storm_Events_Tutorial.ipynb` in Jupyter Notebook and follow along with the tutorial.
-2. **Save the Data**: The data can be saved as a csv file at the end of the notebook 
+Instructions on how to install the project or any dependencies.
+
+## Usage
+
+Examples of how to use the project. Include code snippets or screenshots as needed.
+
+## Contributing
+
+Guidelines for contributing to the project.
 
 ## License
-The standard MIT license is assumed for this notebook.
+
+Include licensing information here.
