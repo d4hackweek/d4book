@@ -31,6 +31,8 @@ For questions related to travel, reimbursement, lodging, etc. please reach out t
 -   Meal Per Diem in Seattle, Washington is: \$19/Breakfast, \$22/Lunch, \$38/Dinner
 -   Reach out to Maddie to be reimbursed for meals per diem at [csde-prgm-coord\@uw.edu](mailto:csde-prgm-coord@uw.edu){.email}.
 -   Thursday evening's dinner will take place at Mamma Melina Ristorante, at 5101 25th Ave NE.
+-  See this list of [restaurant recommendations](https://docs.google.com/document/d/1WvLDgHvu4zQCx1muGU_iscdFzeshsrNI5yyUEBHDmrs/edit) for meals on your own.
+
 <!--- 
 -   The table below notes which meals are catered or per diem.
 

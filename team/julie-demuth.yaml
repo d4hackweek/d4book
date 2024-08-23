@@ -1,0 +1,14 @@
+- title: Julie Demuth
+  avatar: https://staff.ucar.edu/sites/default/files/user/photos/Demuth_pic_outside_zoom.jpg
+  role: Scientist III
+  organizations:
+    - name: NSF National Center for Atmospheric Research (NCAR)
+  bio: "Julie Demuth is a research scientist at the National Center for Atmospheric Research (NCAR) in the Mesoscale and Microscale Meteorology (MMM) Lab with the Weather Risks and Decisions in Society (WRaDS) research group. She has been working for more than 15 years on integrating social science research with the meteorological research and practitioner communities. With a hybrid background in atmospheric science and in communication, Julie conducts research on hazardous weather risk communication, risk perceptions, and responses; her work is with both experts, such as weather forecasters, and members of the public. Her work centers on understanding how forecast information, in conjunction with other factors, influence what people think and feel and how they respond. Some of Julie’s current work includes (1) studying how people’s previous weather experiences change the way they perceive future weather risks, (2) analyzing Twitter data to understand people’s evolving risk assessments as hurricane and tornado threats unfold in space and time, (3) exploring people’s perspectives on probabilistic tornado warnings, and (4) identifying NWS forecasters’ interpretations of and needs for deterministic and ensemble guidance from convection-allowing models. Prior to being at NCAR, Julie worked for three years in Washington DC as a Program Officer at the National Academies of Sciences, Engineering, and Medicine for the Board on Atmospheric Sciences and Climate. Julie received her BS in meteorology from the University of Nebraska-Lincoln, her MS in atmospheric science from Colorado State University, and her PhD in public communication and technology from Colorado State University."
+  expertise:
+    - Social Science
+    - Meteorology
+  social:
+    - icon: linkedin
+      link: https://www.linkedin.com/in/julie-demuth-70749898/
+  user_groups:
+    - Core Organizing Team

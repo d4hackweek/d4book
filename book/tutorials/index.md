@@ -4,7 +4,7 @@ Hackweek tutorials are learning-oriented and guide participants through a step-w
 
 Below you'll find a table keeping track of all tutorials presented at this event:
 
-| Tutorial | Topics | Datasets |  Recording Link |
-| -  | - | - |  - |
-| [Example Notebook](./example/tutorial-notebook.ipynb) | Jupyter Book formatting, ipyleaflet | n/a |  Not recorded |
-| [Machine Learning](./machine-learning/ml-tutorial-notebook.ipynb) | Machine Learning, Deep Learning | n/a |  Not recorded |
+| Tutorial | Topics | Datasets |
+| -  | - | - |
+| [Machine Learning](./machine-learning/ml-tutorial-notebook.ipynb) | Machine Learning, Deep Learning | n/a |  
+| [Storm Events Database](./Storm_Events/Storm_Events_Tutorial.ipynb) | Downloading and analyzing storm events data | NOAA Storm Events Data |

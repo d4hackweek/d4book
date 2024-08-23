@@ -1,0 +1,20 @@
+- title: Jonathon Mote
+  avatar: https://wpo.noaa.gov/wp-content/uploads/2023/12/Jonathan_Mote_WPO.png
+  role: SBES Data Engagement Coordinator
+  organizations:
+    - name: NOAA's Weather Program Office
+    - name: AI2ES (NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography
+  bio: "Jonathon is a contractor supporting the Social Science Research Program in the Weather Program
+        Office (WPO). Prior to working for WPO, he was a Director of Research Analytics at Digital Science,
+        as well as a faculty member at the University of Maryland, Southern Illinois University,
+        and George Washington University. Jon’s academic research has focused on the interrelationship
+        between organizational environments and networks of science and innovation."
+  expertise:
+    - Organization sociology
+    - Knowledge management
+    - Social networks
+  social:
+    - icon: linkedin
+      link: https://www.linkedin.com/in/jonathon-mote-phd-96a91b5/
+  user_groups:
+    - NOAA Liaison

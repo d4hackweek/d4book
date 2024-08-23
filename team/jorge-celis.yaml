@@ -1,0 +1,13 @@
+- title: Jorge Celis
+  avatar: https://www.ou.edu/content/irees/about/people/staff-and-partners/jorge-celis-rodriguez/_jcr_content/content/section/par/textimage_copy_copy/image.img.jpg/1706022561148.jpg
+  role:  Postdoctoral Research Associate
+  organizations:
+    - name: University of Oklahoma
+  bio: "With a strong foundation in environmental research and technology development applications, my career has been characterized by a dedication to solving complex environmental challenges through the use and development of new technologies. I bring a combination of academic knowledge and strategic leadership to advance sustainable practices within the academic and business sectors. My expertise in geospatial technologies, environmental modeling, and machine learning, backed by significant contributions to projects for agencies like NASA, US-Army, NSF, and the USDA, have provided strong experience on enhancing the integration of ground and satellite data for diverse applications. My research goal and motivation include address the existing data interoperability issues between ground data and remote sensing, and creating valuable sets of information for both academic and practical applications, driving progress in environmental data utilization."
+  expertise:
+    - Machine Learning
+  social:
+    - icon: linkedin
+      link: https://www.linkedin.com/in/jorge-andres-celis-r/
+  user_groups:
+    - Core Organizing Team

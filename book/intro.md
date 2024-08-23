@@ -10,12 +10,13 @@ This JupyterBook contains the information you need as a participant in the D4 Ha
 
 👩‍💻 During the D4 Hack Week, teams work collaboratively on different projects related to integrating social and meteorological data. Read more about the projects on our [teams page](teams/index)
 
-💡 Learn more about hackweeks hosted by the [University of Washington eScience Institute](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html), or check out our publication describing the hackweek educational model {cite:p}`Huppenkothen2018`.
+💡 Learn more about hackweeks hosted by the [University of Washington eScience Institute](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html), or check out our [publication](https://www.pnas.org/doi/full/10.1073/pnas.1717196115) describing the hackweek educational model.
 
 `````{admonition} Quick links for the event
 :class: seealso
 * GitHub organization: {{ github_org_url}}
 * Agenda: https://d4hackweek.github.io/d4book/index.html?jump_to=schedule
+* JupyterHub: {{jupyterhub_url}}
 `````
 
 ```{image} ./img/CSDE-logo.png

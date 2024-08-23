@@ -17,12 +17,13 @@ parts:
     - file: preliminary/checklist
     - file: preliminary/git
     - file: preliminary/NCAR
+    - file: preliminary/project_scoping
 - caption: Tutorials
   chapters:
     - file: tutorials/index
       sections:
-        - file: tutorials/example/tutorial-notebook
         - file: tutorials/machine-learning/ml-tutorial-notebook
+        - file: tutorials/Storm_Events/Storm_Events_Tutorial.ipynb
 - caption: Teams
   chapters:
     - file: teams/index
@@ -38,7 +39,7 @@ parts:
 - caption: Reference
   chapters:
     - file: reference/glossary
-    - file: reference/bibliography
+    - file: reference/readings
     - file: reference/questions
     - file: reference/support
 

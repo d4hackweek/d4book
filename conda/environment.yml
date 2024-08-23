@@ -28,5 +28,7 @@ dependencies:
   - torchvision
   - scikit-learn
   - matplotlib
+  - pandas
+  - scipy
   - pip:
     - jinja-markdown==1.210911

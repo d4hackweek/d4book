@@ -1,0 +1,14 @@
+- title: John Williams
+  avatar: https://media.licdn.com/dms/image/v2/C4D03AQFsEynMGpKIPw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1630962350638?e=1729728000&v=beta&t=1o_Cpr4S-kkFH-2rhyRUMuSytJVr-G3rAUdWmXbgibw
+  role: Senior Scientist – Machine Learning; Senior Manager
+  organizations:
+    - name: The Weather Company
+  bio: "Machine Learning and Senior Manager, Forecasting Sciences at The Weather Company. He leads a team of scientists and software engineers who use AI and data science in conjunction with meteorological expertise to innovate and reduce to practice methods for creating state-of-the-art weather forecasts that routinely serve over 300 million individuals and 3,500 businesses around the globe, including via the popular Weather Channel and Weather Underground mobile apps. Dr. Williams earned his Ph.D. in Mathematics, M.S. in Applied Mathematics, and M.A. in Mathematics from the University of Colorado and his B.A. (Honors) in Physics from Swarthmore College."
+  expertise:
+    - Machine Learning
+    - Weather Prediction
+  social:
+    - icon: linkedin
+      link: https://www.linkedin.com/in/drjohnwilliams/
+  user_groups:
+    - Core Organizing Team
