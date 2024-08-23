@@ -34,9 +34,18 @@ sponsors:
   - name: UW Center for Studies in Demography and Ecology
     website: https://csde.washington.edu/
     logo_url: https://csde.washington.edu/wp-content/uploads/2024/02/CSDE_Logo.png
+  - name: AI2ES
+    website: https://www.ai2es.org/
+    logo_url: https://www.ai2es.org/wp-content/uploads/2020/08/ai2es-logo-01.png
   - name: eScience Institute
-    website: ''
+    website: https://escience.washington.edu/
     logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
+  - name: NSF NCAR
+    website: https://ncar.ucar.edu/ 
+    logo_url: https://www.archives.ucar.edu/sites/default/files/images/NSF-NCAR_Lockup-UCAR-Dark_102523%20%282%29.png
+  - name: NOAA
+    website: https://www.noaa.gov/
+    logo_url: https://www.noaa.gov/sites/default/files/2022-03/noaa_emblem_logo-2022.png
 footer:
   social:
   - icon: github
