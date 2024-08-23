@@ -29,10 +29,6 @@ runs:
 
     - uses: ./.github/actions/setupconda
 
-    - name: Setup R API
-      shell: bash -l {0}
-      run: |
-        echo ${CENSUS_API} > .book/tutorials/D4-Census-in-R-Python
     - name: Build JupyterBook
       shell: bash -l {0}
       run: |
