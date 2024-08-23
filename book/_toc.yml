@@ -17,6 +17,7 @@ parts:
     - file: preliminary/checklist
     - file: preliminary/git
     - file: preliminary/NCAR
+    - file: preliminary/project_scoping
 - caption: Tutorials
   chapters:
     - file: tutorials/index
@@ -37,7 +38,7 @@ parts:
 - caption: Reference
   chapters:
     - file: reference/glossary
-    - file: reference/bibliography
+    - file: reference/readings
     - file: reference/questions
     - file: reference/support
 

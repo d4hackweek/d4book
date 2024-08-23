@@ -17,7 +17,7 @@ parse:
     website_url: "https://d4hackweek.github.io"
     jupyterhub_url: "https://jupyterhub.hpc.ucar.edu"
     slack_workspace_url: "https://INSERT_SLACK_URL"
-    contact_email: "dgagne@ucar.edu"
+    contact_email: "d4hackweek@uw.edu"
     dataset: "INSERT_DATA_SET_NAME"
     anon_reporting_url: "https://INSERT_FORM_LINK"
     project_spreadsheet_url: "https://INSERT_GOOGLE_SHEET"
