@@ -18,6 +18,7 @@ This JupyterBook contains the information you need as a participant in the D4 Ha
 * Agenda: https://d4hackweek.github.io/d4book/index.html?jump_to=schedule
 * JupyterHub: {{jupyterhub_url}}
 `````
+
 ```{image} ./img/CSDE-logo.png
 :alt: CSDE logo
 :width: 300px
@@ -41,8 +42,4 @@ This JupyterBook contains the information you need as a participant in the D4 Ha
 :width: 300px
 :align: center
 ```
-<!--- alternative image code, generating error:
-:::{figure-md}
-image<img src="img/NOAA-logo.png" alt="image" width ="100px"></img>
-:::
- --->
+

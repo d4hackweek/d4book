@@ -22,6 +22,7 @@ parts:
   chapters:
     - file: tutorials/index
       sections:
+        - file: tutorials/machine-learning/ml-tutorial-notebook
         - file: tutorials/Storm_Events/Storm_Events_Tutorial.ipynb
 - caption: Teams
   chapters:

@@ -13,10 +13,10 @@
 version: 1
 metadata:
   content_hash:
-    linux-64: 30aac25c4e50f8ae2fad04c4459d4caf008db98230822ca18107ee46a6522088
-    osx-arm64: 728f5f9803765d8dcb294f6d53e25fa29c5d6051c5216ca9252e47fdb0bee004
-    osx-64: cb1e0fea2c7a6a3deb47f3df18a17854d7e108256711a22d2221db834719ef9c
-    win-64: f3c95a38a8b7124ebb6eaa0082365bf3740ffbccc3722b03ee0149875dd67035
+    linux-64: be418b9e887c3e6c8371cdba1405c9785e7a1783da70ca5f53edd9eec0bba774
+    osx-arm64: 26a6fed2a11c6b9dbea606b81b992e94b0e1f2ef8cd6b299b6fc4e0caf771e27
+    osx-64: 34c952ad1037cb3a2d3365ed0b9f358a114117a180f524bfd8fc64ae260fb179
+    win-64: 137a56de33f72dbeffcbc78019478b77f81e17724c946815977437334c0a8368
   channels:
   - url: conda-forge
     used_env_vars: []
@@ -4463,6 +4463,58 @@ package:
   hash:
     md5: 7b86ecb7d3557821c649b3c31e3eb9f2
     sha256: 27380d870d42d00350d2d52598cddaf02f9505fb24be09488da0c9b8d1428f2d
+  category: main
+  optional: false
+- name: joblib
+  version: 1.4.2
+  manager: conda
+  platform: linux-64
+  dependencies:
+    python: '>=3.8'
+    setuptools: ''
+  url: https://conda.anaconda.org/conda-forge/noarch/joblib-1.4.2-pyhd8ed1ab_0.conda
+  hash:
+    md5: 25df261d4523d9f9783bcdb7208d872f
+    sha256: 8ad719524b1039510fcbd75eb776123189d75e2c09228189257ddbcab86f5b64
+  category: main
+  optional: false
+- name: joblib
+  version: 1.4.2
+  manager: conda
+  platform: osx-64
+  dependencies:
+    setuptools: ''
+    python: '>=3.8'
+  url: https://conda.anaconda.org/conda-forge/noarch/joblib-1.4.2-pyhd8ed1ab_0.conda
+  hash:
+    md5: 25df261d4523d9f9783bcdb7208d872f
+    sha256: 8ad719524b1039510fcbd75eb776123189d75e2c09228189257ddbcab86f5b64
+  category: main
+  optional: false
+- name: joblib
+  version: 1.4.2
+  manager: conda
+  platform: osx-arm64
+  dependencies:
+    setuptools: ''
+    python: '>=3.8'
+  url: https://conda.anaconda.org/conda-forge/noarch/joblib-1.4.2-pyhd8ed1ab_0.conda
+  hash:
+    md5: 25df261d4523d9f9783bcdb7208d872f
+    sha256: 8ad719524b1039510fcbd75eb776123189d75e2c09228189257ddbcab86f5b64
+  category: main
+  optional: false
+- name: joblib
+  version: 1.4.2
+  manager: conda
+  platform: win-64
+  dependencies:
+    setuptools: ''
+    python: '>=3.8'
+  url: https://conda.anaconda.org/conda-forge/noarch/joblib-1.4.2-pyhd8ed1ab_0.conda
+  hash:
+    md5: 25df261d4523d9f9783bcdb7208d872f
+    sha256: 8ad719524b1039510fcbd75eb776123189d75e2c09228189257ddbcab86f5b64
   category: main
   optional: false
 - name: json5
@@ -12960,6 +13012,87 @@ package:
     sha256: bb51bfaee060d258fca481be0295e74d5569d786b216993f6bc5a6f943ec8289
   category: main
   optional: false
+- name: scikit-learn
+  version: 1.5.1
+  manager: conda
+  platform: linux-64
+  dependencies:
+    __glibc: '>=2.17,<3.0.a0'
+    _openmp_mutex: '>=4.5'
+    joblib: '>=1.2.0'
+    libgcc-ng: '>=12'
+    libstdcxx-ng: '>=12'
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+    scipy: ''
+    threadpoolctl: '>=3.1.0'
+  url: https://conda.anaconda.org/conda-forge/linux-64/scikit-learn-1.5.1-py311hd632256_0.conda
+  hash:
+    md5: f3928b428ad924ecb8f0e9b71124ed7f
+    sha256: 855a322daff2d64c9a75b1fea560d2f6f4dd02685220519c9a3ce25bbdd92f7d
+  category: main
+  optional: false
+- name: scikit-learn
+  version: 1.5.1
+  manager: conda
+  platform: osx-64
+  dependencies:
+    __osx: '>=10.13'
+    joblib: '>=1.2.0'
+    libcxx: '>=16'
+    llvm-openmp: '>=16.0.6'
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+    scipy: ''
+    threadpoolctl: '>=3.1.0'
+  url: https://conda.anaconda.org/conda-forge/osx-64/scikit-learn-1.5.1-py311h3c3ac6d_0.conda
+  hash:
+    md5: 209cc9f21aced058dfe783848c7a13d9
+    sha256: 9484c7f5c686252e7dd5e180537f35bf7518bae2ba0f5970f849313a427b4a4f
+  category: main
+  optional: false
+- name: scikit-learn
+  version: 1.5.1
+  manager: conda
+  platform: osx-arm64
+  dependencies:
+    __osx: '>=11.0'
+    joblib: '>=1.2.0'
+    libcxx: '>=16'
+    llvm-openmp: '>=16.0.6'
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+    scipy: ''
+    threadpoolctl: '>=3.1.0'
+  url: https://conda.anaconda.org/conda-forge/osx-arm64/scikit-learn-1.5.1-py311hbfb48bc_0.conda
+  hash:
+    md5: c0859c6e5ce3b8f341fca34a52433925
+    sha256: 750975969130d3cf01d211a1efc8455aaab747040bc1bea48f3da767e5b1fd0a
+  category: main
+  optional: false
+- name: scikit-learn
+  version: 1.5.1
+  manager: conda
+  platform: win-64
+  dependencies:
+    joblib: '>=1.2.0'
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+    scipy: ''
+    threadpoolctl: '>=3.1.0'
+    ucrt: '>=10.0.20348.0'
+    vc: '>=14.2,<15'
+    vc14_runtime: '>=14.29.30139'
+  url: https://conda.anaconda.org/conda-forge/win-64/scikit-learn-1.5.1-py311hdcb8d17_0.conda
+  hash:
+    md5: b31a7361a5b0560c48f7451e666cb11d
+    sha256: 8bc7ca0c72326f49c1dba67ab2863839a16b095eb8a5726779c0b44288e46e55
+  category: main
+  optional: false
 - name: scipy
   version: 1.14.1
   manager: conda
@@ -14753,6 +14886,54 @@ package:
   hash:
     md5: ba8aba332d8868897ce44ad74015a7fe
     sha256: db64669a918dec8c744f80a85b9c82216b79298256c7c8bd19bdba54a02f8914
+  category: main
+  optional: false
+- name: threadpoolctl
+  version: 3.5.0
+  manager: conda
+  platform: linux-64
+  dependencies:
+    python: '>=3.8'
+  url: https://conda.anaconda.org/conda-forge/noarch/threadpoolctl-3.5.0-pyhc1e730c_0.conda
+  hash:
+    md5: df68d78237980a159bd7149f33c0e8fd
+    sha256: 45e402941f6bed094022c5726a2ca494e6224b85180d2367fb6ddd9aea68079d
+  category: main
+  optional: false
+- name: threadpoolctl
+  version: 3.5.0
+  manager: conda
+  platform: osx-64
+  dependencies:
+    python: '>=3.8'
+  url: https://conda.anaconda.org/conda-forge/noarch/threadpoolctl-3.5.0-pyhc1e730c_0.conda
+  hash:
+    md5: df68d78237980a159bd7149f33c0e8fd
+    sha256: 45e402941f6bed094022c5726a2ca494e6224b85180d2367fb6ddd9aea68079d
+  category: main
+  optional: false
+- name: threadpoolctl
+  version: 3.5.0
+  manager: conda
+  platform: osx-arm64
+  dependencies:
+    python: '>=3.8'
+  url: https://conda.anaconda.org/conda-forge/noarch/threadpoolctl-3.5.0-pyhc1e730c_0.conda
+  hash:
+    md5: df68d78237980a159bd7149f33c0e8fd
+    sha256: 45e402941f6bed094022c5726a2ca494e6224b85180d2367fb6ddd9aea68079d
+  category: main
+  optional: false
+- name: threadpoolctl
+  version: 3.5.0
+  manager: conda
+  platform: win-64
+  dependencies:
+    python: '>=3.8'
+  url: https://conda.anaconda.org/conda-forge/noarch/threadpoolctl-3.5.0-pyhc1e730c_0.conda
+  hash:
+    md5: df68d78237980a159bd7149f33c0e8fd
+    sha256: 45e402941f6bed094022c5726a2ca494e6224b85180d2367fb6ddd9aea68079d
   category: main
   optional: false
 - name: tinycss2
