@@ -50,6 +50,7 @@ latex:
 launch_buttons:
   notebook_interface: jupyterlab
   binderhub_url: "https://mybinder.org"
+  colab_url: "https://colab.research.google.com"
 
 # Information about where the book exists on the web
 repository:
