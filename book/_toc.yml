@@ -22,7 +22,6 @@ parts:
     - file: tutorials/index
       sections:
         - file: tutorials/Storm_Events/Storm_Events_Tutorial.ipynb
-        - file: tutorials/D4-Census-in-R-Python/Census-data-in-R.html
 - caption: Teams
   chapters:
     - file: teams/index
