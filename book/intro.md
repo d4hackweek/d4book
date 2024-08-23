@@ -18,16 +18,31 @@ This JupyterBook contains the information you need as a participant in the D4 Ha
 * Agenda: https://d4hackweek.github.io/d4book/index.html?jump_to=schedule
 * JupyterHub: {{jupyterhub_url}}
 `````
-<p align="center">
-    <img src="https://github.com/d4hackweek/d4book/blob/main/book/img/CSDE-logo.png" alt="CSDE logo" width="300" height="100"/>
-    <img src="https://github.com/d4hackweek/d4book/blob/main/book/img/AI2ES-logo.png" alt="AI2ES logo" width="300" height="100"/>
-    <img src="https://github.com/d4hackweek/d4book/blob/main/book/img/eScience-logo.png" alt="eScience logo" width="300" height="100"/>
-    <img src="https://github.com/d4hackweek/d4book/blob/main/book/img/NOAA-logo.png" alt="NOAA logo" width="250" height="200"/>
-    <img src="https://github.com/d4hackweek/d4book/blob/main/book/img/NCAR-logo.png" alt="NCAR logo" width="300" height="150"/>
-</p>
+```{image} ./img/CSDE-logo.png
+:alt: CSDE logo
+:width: 300px
+:align: center
+```
 
-<!--- alternative image code, generating error: 
-:::{figure-md} 
+```{image} ./img/eScience-logo.png
+:alt: eScience logo
+:width: 300px
+:align: center
+```
+
+```{image} ./img/NOAA-logo.png
+:alt: NOAA logo
+:width: 300px
+:align: center
+```
+
+```{image} ./img/NCAR-logo.png
+:alt: NCAR logo
+:width: 300px
+:align: center
+```
+<!--- alternative image code, generating error:
+:::{figure-md}
 image<img src="img/NOAA-logo.png" alt="image" width ="100px"></img>
 :::
  --->
