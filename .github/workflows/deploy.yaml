@@ -34,7 +34,7 @@ jobs:
         publish-to-gh: true
         jb-save: true
         token:  ${{ secrets.GITHUB_TOKEN }}
-        ncdc_cdo_token: ${{ secrets.NCDC_CDO_TOKEN }}
+        ncdc-cdo-token: ${{ secrets.NCDC_CDO_TOKEN }}
       env:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

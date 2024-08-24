@@ -15,9 +15,9 @@ inputs:
     description: 'A GitHub Personal Access Token (for publishing)'
     required: false
     default: '0'
-  ncdc_cdo_token:
+  ncdc-cdo-token:
     description: 'A token for the NCEI notebook'
-    required: false
+    required: true
     default: '0'
 
 
@@ -40,7 +40,7 @@ runs:
         echo "Token: ${NCDC_CDO_TOKEN}"
         echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
       env:
-        NCDC_CDO_TOKEN: ${{ inputs.ncdc_cdo_token }}
+        NCDC_CDO_TOKEN: ${{ inputs.ncdc-cdo-token }}
 
     - name: Build JupyterBook
       shell: bash -l {0}
