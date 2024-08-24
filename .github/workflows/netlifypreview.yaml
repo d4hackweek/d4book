@@ -12,7 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     # This workflow accesses secrets and checks out a PR, so only run if labelled
     # https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
-    if: contains(github.event.pull_request.labels.*.name, 'preview')
 
     steps:
     - name: Checkout repository
@@ -20,10 +19,11 @@ jobs:
       with:
         ref: ${{ github.event.pull_request.head.sha }}
 
-    - run: |
+    - name: Token
+      shell: bash
+      run: |
         echo "I made it here"
         echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
-      shell: bash
 
 
     - uses: ./.github/actions/buildresources
