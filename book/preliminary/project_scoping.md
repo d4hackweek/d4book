@@ -1,12 +1,12 @@
 # Project Scoping
 
-We recommend the following process for setting taem goals, norms, and tasks for the D4 Hack Week. We encourage you to discuss these items prior to the D4 Hack Week. There will also be some time on Day 1 of the hack week to revisit these priorities.
+We recommend the following process for setting team goals, norms, and tasks for the D4 Hack Week. We encourage you to discuss these items prior to the D4 Hack Week. There will also be some time on Day 1 of the hack week to revisit these priorities.
 
 ## Step 1: Personal Reflection and Goal Setting
 
-It might seem counterintuitive, but we think it works well to start your time together with a few minutes of personal reflection. The purpose of this time is for each project member to get clear on their personal project and learning goals, and to briefly communicate that in writing to their teammates.  
+It might seem counterintuitive, but we think it works well to start your time together with a few minutes of personal reflection. The purpose of this time is for each project member to get clear on their personal project and learning goals, and to briefly communicate that in writing to their teammates.
 
-We ask the project leader distribute a 4 x 6 card and writing utensil to each team member and then have each person reflect on the following for 3 minutes (set a timer!):
+We ask the project leader distribute a 4 x 6 card to each team member and then have each person reflect on the following for 3 minutes (set a timer!):
 
 ```{admonition} PERSONAL CHECK-IN
 * What are my learning goals for the week?
@@ -23,7 +23,7 @@ Finally, give each member of your team up to 1 minute each (keep it short!) to s
 
 ## Step 2: Group Norms and Process
 
-Next, let's have a 10 - 15 minute conversation (depending on team size) about the group culture we hope to create during the week. 
+Next, let's have a 10 - 15 minute conversation (depending on team size) about the group culture we hope to create during the week.
 
 ```{admonition} GROUP PROCESS CHECK-IN
 * How will we be making decisions?
@@ -34,7 +34,7 @@ Next, let's have a 10 - 15 minute conversation (depending on team size) about th
 
 ## Step 3: Brainstorming Tasks
 
-Now that the team has had a chance to talk about your process and systems, it is time to begin identifying tasks. 
+Now that the team has had a chance to talk about your process and systems, it is time to begin identifying tasks.
 
 ```{admonition} CREATING A TASKBOARD
 All team members are encouraged to contribute here. All ideas and perspectives are needed.
@@ -57,7 +57,7 @@ We're now ready to transfer everything we've done so far into our project manage
 
 We are offering the project management tools listed below.
 
-- GitHub Repo ReadMe: We have created a template for a ReadMe for your team's GitHub Repo, which includes team description, members, goals, and tasks. 
+- GitHub Repo ReadMe: We have created a template for a ReadMe for your team's GitHub Repo, which includes team description, members, goals, and tasks.
 - [Work Tracking Google Doc](https://docs.google.com/document/d/1-vittCw3Nl9H8S8jckqVOGAhxnmmEU7rLx0YacJZlVU/edit): Teams can share daily updates and goals in this shared document.
 - Large paper and post-it notes: We will provide poster-sized paper and post-it notes if you would like to track your work offline.
 

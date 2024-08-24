@@ -8,6 +8,7 @@
 .jupyter/
 .local/
 .viminfo
+.Rdata
 
 # cookiecutter webpage things
 cookiecutter.json
@@ -145,6 +146,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Do not display tutorials
-book/tutorials/
+# PyCharm
+.idea/
 
+# Datasets
+*.csv
+*.nc
+
+# token files
+*token.txt

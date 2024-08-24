@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: D4 Hackweek
-author: eScience Institute, University of Washington, UW Center for Studies in Demography and Ecology, NSF NCAR, University of Oklahoma, Colorado State University
+author: eScience Institute, University of Washington; UW Center for Studies in Demography and Ecology; NSF NCAR; University of Oklahoma; AI2ES; NOAA
 logo: logo.png
 only_build_toc_files: true
 
@@ -36,7 +36,7 @@ execute:
   # NOTE: 'cache' to use jupyter-cache, or 'force' to run all
   execute_notebooks: 'force'
   exclude_patterns:
-    - "**/geospatial-advanced.ipynb"
+    - "**/Precipitation_with_NCEI_Tutorial.ipynb"
   allow_errors: false
   # Per-cell notebook execution limit (seconds)
   timeout: 300
@@ -50,6 +50,7 @@ latex:
 launch_buttons:
   notebook_interface: jupyterlab
   binderhub_url: "https://mybinder.org"
+  colab_url: "https://colab.research.google.com"
 
 # Information about where the book exists on the web
 repository:

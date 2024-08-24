@@ -28,9 +28,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - uses: ./.github/actions/buildresources
+    - name: Build resources
+      uses: ./.github/actions/buildresources
       with:
         jb-cache: false
         publish-to-gh: true
         jb-save: true
         token:  ${{ secrets.GITHUB_TOKEN }}
+      env:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

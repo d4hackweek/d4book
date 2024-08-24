@@ -3,9 +3,20 @@
   role: Weyerhaeuser Endowed Professor in Environmental Policy
   organizations:
     - name: University of Washington - Evans School of Public Policy and Governance
-  bio:
+  bio: "Ann Bostrom studies mental models of hazardous processes (how people understand and make decisions about risks)
+  and collaborates with interdisciplinary teams to understand risk perceptions, risk communication,
+  and management strategies for environmental and health risks, e.g., from geohazards, extreme weather,
+  and climate change. With Julie Demuth, Bostrom co-leads risk communication research in the NSF AI Institute
+  for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES),
+  where she also studies how human judgment and decision-making biases affect AI for environmental
+  sciences with Amy McGovern.  Bostrom also co-directs the NSF-funded Cascadia Coastlines and
+  Peoples Hazards Research Hub, and is Primary Research Area Chair for Environments and Populations
+  in the Center for Studies in Demography and Ecology."
   expertise:
-    - Social Science
+    - Risk perception, communication, and decision making under uncertainty
+    - Mental models of hazardous processes
+    - Cognitive aspects of survey methodology
+    - Environments and populations
   social:
     - icon: linkedin
       link: https://www.linkedin.com/in/ann-bostrom-a6870010/
