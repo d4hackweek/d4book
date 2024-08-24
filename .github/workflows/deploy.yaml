@@ -19,6 +19,9 @@ on:
     branches:
       - main
 
+env:
+  NCDC_CDO_TOKEN: ${{ secrets.NCDC_CDO_TOKEN }}
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -27,6 +30,12 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+
+    - name: Print token to file.
+      shell: bash -l {0}
+      run: |
+        echo "Token: ${NCDC_CDO_TOKEN}"
+        echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
 
     - uses: ./.github/actions/buildresources
       with:
