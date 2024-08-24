@@ -23,7 +23,7 @@ jobs:
       shell: bash -l {0}
       run: |
         echo "I made it here"
-        echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
+        echo ${NCDC_CDO_TOKEN} > $HOME/d4book/book/tutorials/NCEI_Tutorial/token.txt
 
 
     - name: Build Resources
