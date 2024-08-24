@@ -4,9 +4,6 @@ on:
   pull_request_target:
     types: [labeled, synchronize]
 
-env:
-  NCDC_CDO_TOKEN: ${{ secrets.NCDC_CDO_TOKEN }}
-
 jobs:
   add-preview:
     runs-on: ubuntu-latest
@@ -19,20 +16,12 @@ jobs:
       with:
         ref: ${{ github.event.pull_request.head.sha }}
 
-    - name: Token
-      shell: bash -l {0}
-      run: |
-        echo "I made it here"
-        echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
-
-
     - name: Build Resources
       uses: ./.github/actions/buildresources
       with:
         jb-cache: false
         publish-to-gh: false
         jb-save: false
-        ncdc-cdo-token: ${{ secrets.NCDC_CDO_TOKEN }}
 
     - name: Deploy Website Preview
       if: always()
@@ -45,7 +34,5 @@ jobs:
       env:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-        CENSUS_API: ${{ secrets.CENSUS_API }}
-        NCDC_CDO_TOKEN: ${{ secrets.NCDC_CDO_TOKEN }}
       timeout-minutes: 1
 
