@@ -24,9 +24,7 @@ jobs:
       shell: bash -l {0}
       run: |
         echo "I made it here"
-        echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
-      env:
-        NCDC_CDO_TOKEN: ${{ secrets.NCDC_CDO_TOKEN }}
+
 
     - uses: ./.github/actions/buildresources
       with:
