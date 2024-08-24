@@ -20,9 +20,10 @@ jobs:
       with:
         ref: ${{ github.event.pull_request.head.sha }}
 
-    - name: Print token to file
+    - name: Print token
       shell: bash -l {0}
       run: |
+        echo "I made it here"
         echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
       env:
         NCDC_CDO_TOKEN: ${{ secrets.NCDC_CDO_TOKEN }}
