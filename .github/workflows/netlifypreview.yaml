@@ -25,8 +25,8 @@ jobs:
         jb-cache: false
         publish-to-gh: false
         jb-save: false
-      env:
-        NCDC_CDO_TOKEN: ${{ secrets.NCDC_CDO_TOKEN }}
+        ncdc_cdo_token: ${{ secrets.NCDC_CDO_TOKEN }}
+
 
     - name: Deploy Website Preview
       if: always()

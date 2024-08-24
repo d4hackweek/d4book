@@ -15,6 +15,10 @@ inputs:
     description: 'A GitHub Personal Access Token (for publishing)'
     required: false
     default: '0'
+  ncdc_cdo_token:
+    description: 'A token for the NCEI notebook'
+    required: false
+    default: '0'
 
 
 runs:
@@ -31,10 +35,12 @@ runs:
     - uses: ./.github/actions/setupconda
 
     - name: Build JupyterBook
-      shell: bash
+      shell: bash -l {0}
       run: |
         echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
         ./scripts/build_resources.sh
+      env:
+        NCDC_CDO_TOKEN: ${{ inputs.ncdc_cdo_token }}
 
     - name: Dump Build Logs
       if: always()
