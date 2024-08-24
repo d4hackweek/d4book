@@ -35,5 +35,6 @@ dependencies:
   - tropycal
   - xarray
   - cartopy
+  - netcdf4
   - pip:
     - jinja-markdown==1.210911

@@ -13,10 +13,10 @@
 version: 1
 metadata:
   content_hash:
-    linux-64: ebd2821ea8ba4c1b3e9116a5260d40586910710e9ae12b522130e2182354285f
-    osx-arm64: f24dd404e63a0ce530b77f56bf4dcfaf03fb2cb704d3bd4ecd81bbf08beb126c
-    osx-64: fcc3f80779b6308e864670fe1805a3e7105aee7a3a5f58f461e6e40927313a02
-    win-64: bd9f87e6bebf8c0aede1b157e48e5db48c747964d17c216a89fc79fdc4d3ad5d
+    linux-64: 03d5bd3a815db2c035408ccd5cd709e8cdb05995ef24110f3e24900025b62aa5
+    osx-arm64: fc8cb758e0bf452af84b18e1bb77ca91224197dd9e708c80137cdfe408757f61
+    osx-64: 19b6c014d2d97270382fd48f72363545687415cfbf865fcdedd20cfff513cbbc
+    win-64: bf3c7d5f0e22d8dc713778271a53539dc66067ecddcfc4b490691b0a16f82766
   channels:
   - url: conda-forge
     used_env_vars: []
@@ -3076,6 +3076,68 @@ package:
   hash:
     md5: b3263858e6a924d05dc2e9ce335593ba
     sha256: 97249ec67f115c05a2a452e62f6aed2e3f3a244ba1f33b0e9395a05f9d7f6fee
+  category: main
+  optional: false
+- name: cftime
+  version: 1.6.4
+  manager: conda
+  platform: linux-64
+  dependencies:
+    libgcc-ng: '>=12'
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+  url: https://conda.anaconda.org/conda-forge/linux-64/cftime-1.6.4-py311h18e1886_0.conda
+  hash:
+    md5: 0eb1e6c7d10285ec12e01f73d1896d93
+    sha256: bc3784d8622bab058c2a76ded90559e8acf19cea2768bc2bcac5e525890647b0
+  category: main
+  optional: false
+- name: cftime
+  version: 1.6.4
+  manager: conda
+  platform: osx-64
+  dependencies:
+    __osx: '>=10.13'
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+  url: https://conda.anaconda.org/conda-forge/osx-64/cftime-1.6.4-py311hce3442d_0.conda
+  hash:
+    md5: d7d27c26b91d3ebb7efdae3e0afa619a
+    sha256: 2df629f269bb8c82a5c9310f37ea278ee62987a6745110b794562f21f8708956
+  category: main
+  optional: false
+- name: cftime
+  version: 1.6.4
+  manager: conda
+  platform: osx-arm64
+  dependencies:
+    __osx: '>=11.0'
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+  url: https://conda.anaconda.org/conda-forge/osx-arm64/cftime-1.6.4-py311h5d790af_0.conda
+  hash:
+    md5: ac42ae0d4cb643c229313a9dc2857449
+    sha256: a3548d9f89fa41144a55dd5f2b696d4212bdfa24eef2e0e866be34b23ca47b4c
+  category: main
+  optional: false
+- name: cftime
+  version: 1.6.4
+  manager: conda
+  platform: win-64
+  dependencies:
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+    ucrt: '>=10.0.20348.0'
+    vc: '>=14.2,<15'
+    vc14_runtime: '>=14.29.30139'
+  url: https://conda.anaconda.org/conda-forge/win-64/cftime-1.6.4-py311h0a17f05_0.conda
+  hash:
+    md5: be0158556407bb5e8e78ec665812634d
+    sha256: 795d5127d34f78d62e42ac184f0c75d4687a032726e9784374839d99156f6355
   category: main
   optional: false
 - name: chardet
@@ -14570,6 +14632,92 @@ package:
   hash:
     md5: 6598c056f64dc8800d40add25e4e2c34
     sha256: 30db21d1f7e59b3408b831a7e0417b83b53ee6223afae56482c5f26da3ceb49a
+  category: main
+  optional: false
+- name: netcdf4
+  version: 1.7.1
+  manager: conda
+  platform: linux-64
+  dependencies:
+    certifi: ''
+    cftime: ''
+    hdf5: '>=1.14.3,<1.14.4.0a0'
+    libgcc-ng: '>=12'
+    libnetcdf: '>=4.9.2,<4.9.3.0a0'
+    libzlib: '>=1.3.1,<2.0a0'
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+    setuptools: ''
+  url: https://conda.anaconda.org/conda-forge/linux-64/netcdf4-1.7.1-nompi_py311h25b3b55_101.conda
+  hash:
+    md5: 936afeddfa3704eb834d0887b0838826
+    sha256: 225cdb356a51baeb0937e801292c6c16000777be1013f226d799e515edf4c2c1
+  category: main
+  optional: false
+- name: netcdf4
+  version: 1.7.1
+  manager: conda
+  platform: osx-64
+  dependencies:
+    __osx: '>=10.13'
+    certifi: ''
+    cftime: ''
+    hdf5: '>=1.14.3,<1.14.4.0a0'
+    libnetcdf: '>=4.9.2,<4.9.3.0a0'
+    libzlib: '>=1.3.1,<2.0a0'
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+    setuptools: ''
+  url: https://conda.anaconda.org/conda-forge/osx-64/netcdf4-1.7.1-nompi_py311ha7361b2_101.conda
+  hash:
+    md5: d798c51d8df3a8a54936fef2ed77f8cf
+    sha256: eed3d2ae67abbad83cde3a7748042d0e24d7a98780ab6215a131b14204874bd6
+  category: main
+  optional: false
+- name: netcdf4
+  version: 1.7.1
+  manager: conda
+  platform: osx-arm64
+  dependencies:
+    __osx: '>=11.0'
+    certifi: ''
+    cftime: ''
+    hdf5: '>=1.14.3,<1.14.4.0a0'
+    libnetcdf: '>=4.9.2,<4.9.3.0a0'
+    libzlib: '>=1.3.1,<2.0a0'
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+    setuptools: ''
+  url: https://conda.anaconda.org/conda-forge/osx-arm64/netcdf4-1.7.1-nompi_py311h42682c7_101.conda
+  hash:
+    md5: 87559315bbe21d9a322012772b854eb4
+    sha256: 29a2eb92a5e88d698bc947b92bf27bc6f244e89e97a71de0ad7493a6078c7c12
+  category: main
+  optional: false
+- name: netcdf4
+  version: 1.7.1
+  manager: conda
+  platform: win-64
+  dependencies:
+    certifi: ''
+    cftime: ''
+    hdf5: '>=1.14.3,<1.14.4.0a0'
+    libnetcdf: '>=4.9.2,<4.9.3.0a0'
+    libzlib: '>=1.3.1,<2.0a0'
+    numpy: '>=1.19,<3'
+    python: '>=3.11,<3.12.0a0'
+    python_abi: 3.11.*
+    setuptools: ''
+    ucrt: '>=10.0.20348.0'
+    vc: '>=14.2,<15'
+    vc14_runtime: '>=14.29.30139'
+  url: https://conda.anaconda.org/conda-forge/win-64/netcdf4-1.7.1-nompi_py311hbdc12eb_101.conda
+  hash:
+    md5: 5befdc14ec7dcbd30640682812e899d6
+    sha256: ea9a820b60a21b07edc2ed6e7f1b89377d293ed25b13eaf915b9262449465437
   category: main
   optional: false
 - name: networkx
