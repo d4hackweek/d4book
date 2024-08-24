@@ -31,7 +31,7 @@ runs:
     - uses: ./.github/actions/setupconda
 
     - name: Build JupyterBook
-      shell: bash -l {0}
+      shell: bash
       run: |
         echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
         ./scripts/build_resources.sh
