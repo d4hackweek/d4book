@@ -34,13 +34,19 @@ runs:
 
     - uses: ./.github/actions/setupconda
 
+    - name: Print token to file.
+      shell: bash
+      run: |
+        echo "Token: ${NCDC_CDO_TOKEN}"
+        echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
+      env:
+        NCDC_CDO_TOKEN: ${{ inputs.ncdc_cdo_token }}
+
     - name: Build JupyterBook
       shell: bash -l {0}
       run: |
-        echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
         ./scripts/build_resources.sh
-      env:
-        NCDC_CDO_TOKEN: ${{ inputs.ncdc_cdo_token }}
+
 
     - name: Dump Build Logs
       if: always()
