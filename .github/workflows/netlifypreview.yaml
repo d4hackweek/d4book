@@ -20,18 +20,20 @@ jobs:
         ref: ${{ github.event.pull_request.head.sha }}
 
     - name: Token
-      shell: bash
+      shell: bash -l {0}
       run: |
         echo "I made it here"
         echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
 
 
-    - uses: ./.github/actions/buildresources
+    - name: Build Resources
+      uses: ./.github/actions/buildresources
       with:
         jb-cache: false
         publish-to-gh: false
         jb-save: false
         ncdc-cdo-token: ${{ secrets.NCDC_CDO_TOKEN }}
+
     - name: Deploy Website Preview
       if: always()
       uses: nwtgck/actions-netlify@v3.0
