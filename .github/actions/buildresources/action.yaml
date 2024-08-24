@@ -32,8 +32,6 @@ runs:
 
     - name: Build JupyterBook
       shell: bash -l {0}
-      env:
-        NCDC_CDO_TOKEN : ${{ secrets.NCDC_CDO_TOKEN }}
       run: |
         echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
         ./scripts/build_resources.sh
