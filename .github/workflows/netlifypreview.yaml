@@ -25,6 +25,8 @@ jobs:
       run: |
         echo "Token: ${NCDC_CDO_TOKEN}"
         echo ${NCDC_CDO_TOKEN} > ./book/tutorials/NCEI_Tutorial/token.txt
+      env:
+        NCDC_CDO_TOKEN: ${{ secrets.NCDC_CDO_TOKEN }}
 
     - uses: ./.github/actions/buildresources
       with:
@@ -32,8 +34,6 @@ jobs:
         publish-to-gh: false
         jb-save: false
         ncdc-cdo-token: ${{ secrets.NCDC_CDO_TOKEN }}
-
-
     - name: Deploy Website Preview
       if: always()
       uses: nwtgck/actions-netlify@v3.0
