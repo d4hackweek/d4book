@@ -152,3 +152,6 @@ dmypy.json
 # Datasets
 *.csv
 *.nc
+
+# token files
+*token.txt
