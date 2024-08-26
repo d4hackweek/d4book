@@ -30,11 +30,19 @@ dependencies:
   - matplotlib
   - pandas
   - scipy
+  - math
+  - os
+  - rasterio
+  - cenpy
+  - wget
+  - census
+  - sklearn
   - folium
   - geopandas
   - tropycal
   - xarray
   - cartopy
+  - geoplot
   - netcdf4
   - pip:
     - jinja-markdown==1.210911
