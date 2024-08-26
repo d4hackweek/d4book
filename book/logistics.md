@@ -52,16 +52,16 @@ For questions related to travel, reimbursement, lodging, etc. please reach out t
 |-----------|-----------|----------------------------------------------------------|
 | Monday    | Lunch     | Catered                                                  |
 | Monday    | Dinner    | Meal per diem                                            |
-| Tuesday   | Breakfast | Hotel breakfast; coffee and refreshments will be catered |
+| Tuesday   | Breakfast | Catered |
 | Tuesday   | Lunch     | Catered                                                  |
 | Tuesday   | Dinner    | Meal per diem                                            |
-| Wednesday | Breakfast | Hotel breakfast; coffee and refreshments will be catered |
+| Wednesday | Breakfast | Catered |
 | Wednesday | Lunch     | Meal per diem                                            |
 | Wednesday | Dinner    | Meal per diem                                            |
-| Thursday  | Breakfast | Hotel breakfast; coffee and refreshments will be catered |
+| Thursday  | Breakfast | Catered |
 | Thursday  | Lunch     | Catered                                                  |
 | Thursday  | Dinner    | Catered at Mamma Melina Restaurant                       |
-| Friday    | Breakfast | Hotel breakfast                                          |
+| Friday    | Breakfast | Meal per diem                                          |
 
 
 
