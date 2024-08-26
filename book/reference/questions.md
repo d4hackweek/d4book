@@ -20,7 +20,15 @@ DJ Gagne: dgagne (at) ucar.edu
 
 Jason Stock: stock (at) rams.colostate.edu 
 
+Jorge Celis: jcelis (at) ou.edu
+
+Jonathon Mote: jonathon.mote (at) noaa.gov
+
+Kyle Metta: kyle.metta (at) noaa.gov
+
 Maddie Farris: csde-prgm-coord (at) uw.edu 
+
+CSDE Help: csde_help (at) uw.edu 
 
 June Yang: jyang32 (at) uw.edu 
 
