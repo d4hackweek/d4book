@@ -35,8 +35,12 @@ jobs:
       with:
         ref: ${{ github.event.pull_request.head.sha }}
 
-    - uses: ./.github/actions/buildresources
+    - name: Build Website
+      uses: ./.github/actions/buildresources
       with:
         jb-cache: false
         publish-to-gh: false
         jb-save: true
+      env:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

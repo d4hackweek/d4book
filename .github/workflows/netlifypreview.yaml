@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     # This workflow accesses secrets and checks out a PR, so only run if labelled
     # https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
-    if: contains(github.event.pull_request.labels.*.name, 'preview')
 
     steps:
     - name: Checkout repository
@@ -17,7 +16,8 @@ jobs:
       with:
         ref: ${{ github.event.pull_request.head.sha }}
 
-    - uses: ./.github/actions/buildresources
+    - name: Build Resources
+      uses: ./.github/actions/buildresources
       with:
         jb-cache: false
         publish-to-gh: false

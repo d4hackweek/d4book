@@ -10,7 +10,7 @@ This JupyterBook contains the information you need as a participant in the D4 Ha
 
 👩‍💻 During the D4 Hack Week, teams work collaboratively on different projects related to integrating social and meteorological data. Read more about the projects on our [teams page](teams/index)
 
-💡 Learn more about hackweeks hosted by the [University of Washington eScience Institute](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html), or check out our [publication](https://www.pnas.org/doi/full/10.1073/pnas.1717196115) describing the hackweek educational model.
+💡 Learn more about hackweeks hosted by the [University of Washington eScience Institute](https://uwhackweek.github.io/hackweeks-as-a-service/intro.html), or check out the [publication](https://www.pnas.org/doi/full/10.1073/pnas.1717196115) describing the hackweek educational model  and the AI2ES [publication](https://doi.org/10.1175/BAMS-D-22-0225.1) on a novel approach to a hackweek.
 
 `````{admonition} Quick links for the event
 :class: seealso
@@ -18,16 +18,34 @@ This JupyterBook contains the information you need as a participant in the D4 Ha
 * Agenda: https://d4hackweek.github.io/d4book/index.html?jump_to=schedule
 * JupyterHub: {{jupyterhub_url}}
 `````
-<p align="center">
-    <img src="https://github.com/d4hackweek/d4book/blob/main/book/img/CSDE-logo.png" alt="CSDE logo" width="300" height="100"/>
-    <img src="https://github.com/d4hackweek/d4book/blob/main/book/img/AI2ES-logo.png" alt="AI2ES logo" width="300" height="100"/>
-    <img src="https://github.com/d4hackweek/d4book/blob/main/book/img/eScience-logo.png" alt="eScience logo" width="300" height="100"/>
-    <img src="https://github.com/d4hackweek/d4book/blob/main/book/img/NOAA-logo.png" alt="NOAA logo" width="250" height="200"/>
-    <img src="https://github.com/d4hackweek/d4book/blob/main/book/img/NCAR-logo.png" alt="NCAR logo" width="300" height="150"/>
-</p>
 
-<!--- alternative image code, generating error: 
-:::{figure-md} 
-image<img src="img/NOAA-logo.png" alt="image" width ="100px"></img>
-:::
- --->
+```{image} ./img/NOAA-logo.png
+:alt: NOAA logo
+:width: 300px
+:align: center
+```
+
+```{image} ./img/CSDE-logo.png
+:alt: CSDE logo
+:width: 300px
+:align: center
+```
+
+```{image} ./img/eScience-logo.png
+:alt: eScience logo
+:width: 300px
+:align: center
+```
+
+```{image} ./img/AI2ES-logo.png
+:alt: AI2ES logo
+:width: 300px
+:align: center
+```
+
+```{image} ./img/NCAR-logo.png
+:alt: NCAR logo
+:width: 300px
+:align: center
+```
+

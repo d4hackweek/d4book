@@ -22,7 +22,11 @@ parts:
   chapters:
     - file: tutorials/index
       sections:
-        - file: tutorials/example/tutorial-notebook
+        - file: tutorials/machine-learning/ml-tutorial-notebook
+        - file: tutorials/Storm_Events/Storm_Events_Tutorial.ipynb
+        - file: tutorials/NCEI_Tutorial/Precipitation_with_NCEI_Tutorial.ipynb
+        - file: tutorials/Tropycal/Tropycal.ipynb
+        - file: tutorials/IBTrACS/Using_IBTrACS.ipynb
 - caption: Teams
   chapters:
     - file: teams/index

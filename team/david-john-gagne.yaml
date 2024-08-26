@@ -4,7 +4,15 @@
   organizations:
     - name: NSF National Center for Atmospheric Research
     - name: Machine Integration and Learning for Earth Systems
-  bio: David John runs the MILES group at NSF NCAR. 
+  bio: "Dr. David John Gagne II is a Machine Learning Scientist II and head of the Machine Integration
+  and Learning for Earth Systems (MILES) group at the NSF National Center for Atmospheric Research (NCAR)
+  in Boulder, Colorado. He has led the development of machine learning systems that enhance
+  understanding and prediction of high impact weather and critical Earth system processes.
+  He received his Ph.D. in meteorology from the University of Oklahoma in 2016 and completed an
+  NCAR ASP Postdoctoral Fellowship before assuming his current role. He is a NSF AI2ES AI Institute
+  leader and a NSF LEAP Science and Technology Center member. He is a WMO Nowcasting and Mesoscale
+  Research Working Group member, chaired the American Meteorological Society Artificial Intelligence
+  Committee, and serves as an editor for the AI for the Earth Systems journal, and has led summer schools, short courses, and hackathons."
   expertise:
     - machine learning
     - Python
@@ -14,5 +22,8 @@
   social:
     - icon: github
       link: https://github.com/djgagne
+    - icon: linkedin
+      link: https://www.linkedin.com/in/david-john-gagne-ii-6a72a851/
   user_groups:
+    - Core Organizing Team
     - Data Infrastructure

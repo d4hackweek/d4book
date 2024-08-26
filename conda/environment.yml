@@ -6,6 +6,7 @@
 name: hackweek
 channels:
   - conda-forge
+  - pytorch
 dependencies:
   - ipyleaflet
   - jupyter-book<2
@@ -22,5 +23,18 @@ dependencies:
   - jinja2>=2.11
   - pygments>=2.6.1
   - pymdown-extensions>=7.1
+  - pytorch
+  - numpy<2
+  - torchvision
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - scipy
+  - folium
+  - geopandas
+  - tropycal
+  - xarray
+  - cartopy
+  - netcdf4
   - pip:
     - jinja-markdown==1.210911
