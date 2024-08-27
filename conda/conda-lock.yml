@@ -13,10 +13,10 @@
 version: 1
 metadata:
   content_hash:
-    linux-64: 0c27ce0ac5e8491b6cdc2d04776ced80bfe32992b70b8b6a03b061c7659b4839
-    osx-arm64: 5dc15885bd5ad4e2705ae387310db55be5b16f5f4d34b8cd1ac0a6c97715413a
-    osx-64: 7f20d6f51126331c4ea9e638fe457121a27b379bed863b4e809e83b920e7ccf4
-    win-64: 11738cf44cf4261ec69b7043e2ab43fa66d1e852acf525a761bef3d881c6c807
+    linux-64: 6737af419639b65d7848fa10af1b65be7b64ea4b6e2c55b25f0db20922412b46
+    osx-arm64: 40fb19dab83d94e7b5a2701c7d492fd0c36cc57fd0539745c97a31865c61d610
+    osx-64: 9a5613dc272ff86686aff60173b8d998893fafecf18f57f686d7150104672682
+    win-64: 98af1f467d72ca51f1dce714552da07c94a25572f70ddaebc4ac2c929cdb207c
   channels:
   - url: conda-forge
     used_env_vars: []
@@ -15768,6 +15768,74 @@ package:
     sha256: d38542a151a90417065c1a234866f97fd1ea82a81de75ecb725955ab78f88b4b
   category: main
   optional: false
+- name: notebook
+  version: 7.2.1
+  manager: conda
+  platform: linux-64
+  dependencies:
+    jupyter_server: '>=2.4.0,<3'
+    jupyterlab: '>=4.2.0,<4.3'
+    jupyterlab_server: '>=2.27.1,<3'
+    notebook-shim: '>=0.2,<0.3'
+    python: '>=3.8'
+    tornado: '>=6.2.0'
+  url: https://conda.anaconda.org/conda-forge/noarch/notebook-7.2.1-pyhd8ed1ab_0.conda
+  hash:
+    md5: 08fa71a038c2cac2e636a5a456df15d5
+    sha256: 6b23256e63225ff15b0d5e91d49111936df05748bb31afa321b29556087f85f4
+  category: main
+  optional: false
+- name: notebook
+  version: 7.2.1
+  manager: conda
+  platform: osx-64
+  dependencies:
+    python: '>=3.8'
+    tornado: '>=6.2.0'
+    jupyter_server: '>=2.4.0,<3'
+    notebook-shim: '>=0.2,<0.3'
+    jupyterlab_server: '>=2.27.1,<3'
+    jupyterlab: '>=4.2.0,<4.3'
+  url: https://conda.anaconda.org/conda-forge/noarch/notebook-7.2.1-pyhd8ed1ab_0.conda
+  hash:
+    md5: 08fa71a038c2cac2e636a5a456df15d5
+    sha256: 6b23256e63225ff15b0d5e91d49111936df05748bb31afa321b29556087f85f4
+  category: main
+  optional: false
+- name: notebook
+  version: 7.2.1
+  manager: conda
+  platform: osx-arm64
+  dependencies:
+    python: '>=3.8'
+    tornado: '>=6.2.0'
+    jupyter_server: '>=2.4.0,<3'
+    notebook-shim: '>=0.2,<0.3'
+    jupyterlab_server: '>=2.27.1,<3'
+    jupyterlab: '>=4.2.0,<4.3'
+  url: https://conda.anaconda.org/conda-forge/noarch/notebook-7.2.1-pyhd8ed1ab_0.conda
+  hash:
+    md5: 08fa71a038c2cac2e636a5a456df15d5
+    sha256: 6b23256e63225ff15b0d5e91d49111936df05748bb31afa321b29556087f85f4
+  category: main
+  optional: false
+- name: notebook
+  version: 7.2.1
+  manager: conda
+  platform: win-64
+  dependencies:
+    python: '>=3.8'
+    tornado: '>=6.2.0'
+    jupyter_server: '>=2.4.0,<3'
+    notebook-shim: '>=0.2,<0.3'
+    jupyterlab_server: '>=2.27.1,<3'
+    jupyterlab: '>=4.2.0,<4.3'
+  url: https://conda.anaconda.org/conda-forge/noarch/notebook-7.2.1-pyhd8ed1ab_0.conda
+  hash:
+    md5: 08fa71a038c2cac2e636a5a456df15d5
+    sha256: 6b23256e63225ff15b0d5e91d49111936df05748bb31afa321b29556087f85f4
+  category: main
+  optional: false
 - name: notebook-shim
   version: 0.2.4
   manager: conda
@@ -22820,6 +22888,58 @@ package:
     sha256: 6efb2b0eaf5063c76288d1bf1a55488e9035d86bd63380de5ed4990499ca6859
   category: main
   optional: false
+- name: tqdm
+  version: 4.66.5
+  manager: conda
+  platform: linux-64
+  dependencies:
+    colorama: ''
+    python: '>=3.7'
+  url: https://conda.anaconda.org/conda-forge/noarch/tqdm-4.66.5-pyhd8ed1ab_0.conda
+  hash:
+    md5: c6e94fc2b2ec71ea33fe7c7da259acb4
+    sha256: f2384902cef72048b0e9bad5c03d7a843de02ba6bc8618a9ecab6ff81a131312
+  category: main
+  optional: false
+- name: tqdm
+  version: 4.66.5
+  manager: conda
+  platform: osx-64
+  dependencies:
+    colorama: ''
+    python: '>=3.7'
+  url: https://conda.anaconda.org/conda-forge/noarch/tqdm-4.66.5-pyhd8ed1ab_0.conda
+  hash:
+    md5: c6e94fc2b2ec71ea33fe7c7da259acb4
+    sha256: f2384902cef72048b0e9bad5c03d7a843de02ba6bc8618a9ecab6ff81a131312
+  category: main
+  optional: false
+- name: tqdm
+  version: 4.66.5
+  manager: conda
+  platform: osx-arm64
+  dependencies:
+    colorama: ''
+    python: '>=3.7'
+  url: https://conda.anaconda.org/conda-forge/noarch/tqdm-4.66.5-pyhd8ed1ab_0.conda
+  hash:
+    md5: c6e94fc2b2ec71ea33fe7c7da259acb4
+    sha256: f2384902cef72048b0e9bad5c03d7a843de02ba6bc8618a9ecab6ff81a131312
+  category: main
+  optional: false
+- name: tqdm
+  version: 4.66.5
+  manager: conda
+  platform: win-64
+  dependencies:
+    colorama: ''
+    python: '>=3.7'
+  url: https://conda.anaconda.org/conda-forge/noarch/tqdm-4.66.5-pyhd8ed1ab_0.conda
+  hash:
+    md5: c6e94fc2b2ec71ea33fe7c7da259acb4
+    sha256: f2384902cef72048b0e9bad5c03d7a843de02ba6bc8618a9ecab6ff81a131312
+  category: main
+  optional: false
 - name: traitlets
   version: 5.14.3
   manager: conda
@@ -24815,6 +24935,46 @@ package:
     sha256: 768e30dc513568491818fb068ee867c57c514b553915536da09e5d10b4ebf3c3
   category: main
   optional: false
+- name: jellyfish
+  version: 1.1.0
+  manager: pip
+  platform: linux-64
+  dependencies: {}
+  url: https://files.pythonhosted.org/packages/6e/d2/2055b8b6d1f4e432e40cfa44ae3e315e36e4eddb989eed4db7a53bff51e3/jellyfish-1.1.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+  hash:
+    sha256: 33ebb6e9647d5d52f4d461a163449f6d1c73f1a80ccbe98bb17efac0062a6423
+  category: main
+  optional: false
+- name: jellyfish
+  version: 1.1.0
+  manager: pip
+  platform: osx-64
+  dependencies: {}
+  url: https://files.pythonhosted.org/packages/89/e1/d80963467a1b4edd79b46f305bbc060dcffbcb7b138e308ecba86d99ffd1/jellyfish-1.1.0-cp311-cp311-macosx_10_12_x86_64.whl
+  hash:
+    sha256: fed2e4ecf9b4995d2aa771453d0a0fdf47a5e1b13dbd74b98a30cb0070ede30c
+  category: main
+  optional: false
+- name: jellyfish
+  version: 1.1.0
+  manager: pip
+  platform: osx-arm64
+  dependencies: {}
+  url: https://files.pythonhosted.org/packages/3b/0c/3df520c610785a83411237eeefbb9ba283eabbee80d2b87b1b93abe5d158/jellyfish-1.1.0-cp311-cp311-macosx_11_0_arm64.whl
+  hash:
+    sha256: 61a382ba8a3d3cd0bd50029062d54d3a0726679be248789fef6a3901eee47a60
+  category: main
+  optional: false
+- name: jellyfish
+  version: 1.1.0
+  manager: pip
+  platform: win-64
+  dependencies: {}
+  url: https://files.pythonhosted.org/packages/cd/76/a077eee8a50c522121ba74b6a6dff6987f1a7333992219251987fe0db850/jellyfish-1.1.0-cp311-none-win_amd64.whl
+  hash:
+    sha256: 95dfe61eabf360a92e6d76d1c4dbafa29bcb3f70e2ad7354de2661141fcce038
+  category: main
+  optional: false
 - name: jinja-markdown
   version: '1.210911'
   manager: pip
@@ -24865,5 +25025,89 @@ package:
   url: https://files.pythonhosted.org/packages/10/a4/9d42465c2e6dc24a4d13dede260f13f78d96b7982020491e91272798dffb/jinja_markdown-1.210911-py3-none-any.whl
   hash:
     sha256: cce8e2be016227c925a8c82a7f3499099319d239fedc481b7728a7c9e9e3cfcc
+  category: main
+  optional: false
+- name: us
+  version: 3.2.0
+  manager: pip
+  platform: linux-64
+  dependencies:
+    jellyfish: '*'
+  url: https://files.pythonhosted.org/packages/65/a8/1791660a87f03d10a3bce00401a66035999c91f5a9a6987569b84df5719d/us-3.2.0-py3-none-any.whl
+  hash:
+    sha256: 571714ad6d473c72bbd2058a53404cdf4ecc0129e4f19adfcbeb4e2d7e3dc3e7
+  category: main
+  optional: false
+- name: us
+  version: 3.2.0
+  manager: pip
+  platform: osx-64
+  dependencies:
+    jellyfish: '*'
+  url: https://files.pythonhosted.org/packages/65/a8/1791660a87f03d10a3bce00401a66035999c91f5a9a6987569b84df5719d/us-3.2.0-py3-none-any.whl
+  hash:
+    sha256: 571714ad6d473c72bbd2058a53404cdf4ecc0129e4f19adfcbeb4e2d7e3dc3e7
+  category: main
+  optional: false
+- name: us
+  version: 3.2.0
+  manager: pip
+  platform: osx-arm64
+  dependencies:
+    jellyfish: '*'
+  url: https://files.pythonhosted.org/packages/65/a8/1791660a87f03d10a3bce00401a66035999c91f5a9a6987569b84df5719d/us-3.2.0-py3-none-any.whl
+  hash:
+    sha256: 571714ad6d473c72bbd2058a53404cdf4ecc0129e4f19adfcbeb4e2d7e3dc3e7
+  category: main
+  optional: false
+- name: us
+  version: 3.2.0
+  manager: pip
+  platform: win-64
+  dependencies:
+    jellyfish: '*'
+  url: https://files.pythonhosted.org/packages/65/a8/1791660a87f03d10a3bce00401a66035999c91f5a9a6987569b84df5719d/us-3.2.0-py3-none-any.whl
+  hash:
+    sha256: 571714ad6d473c72bbd2058a53404cdf4ecc0129e4f19adfcbeb4e2d7e3dc3e7
+  category: main
+  optional: false
+- name: wget
+  version: '3.2'
+  manager: pip
+  platform: linux-64
+  dependencies: {}
+  url: https://files.pythonhosted.org/packages/47/6a/62e288da7bcda82b935ff0c6cfe542970f04e29c756b0e147251b2fb251f/wget-3.2.zip
+  hash:
+    sha256: 35e630eca2aa50ce998b9b1a127bb26b30dfee573702782aa982f875e3f16061
+  category: main
+  optional: false
+- name: wget
+  version: '3.2'
+  manager: pip
+  platform: osx-64
+  dependencies: {}
+  url: https://files.pythonhosted.org/packages/47/6a/62e288da7bcda82b935ff0c6cfe542970f04e29c756b0e147251b2fb251f/wget-3.2.zip
+  hash:
+    sha256: 35e630eca2aa50ce998b9b1a127bb26b30dfee573702782aa982f875e3f16061
+  category: main
+  optional: false
+- name: wget
+  version: '3.2'
+  manager: pip
+  platform: osx-arm64
+  dependencies: {}
+  url: https://files.pythonhosted.org/packages/47/6a/62e288da7bcda82b935ff0c6cfe542970f04e29c756b0e147251b2fb251f/wget-3.2.zip
+  hash:
+    sha256: 35e630eca2aa50ce998b9b1a127bb26b30dfee573702782aa982f875e3f16061
+  category: main
+  optional: false
+- name: wget
+  version: '3.2'
+  manager: pip
+  platform: win-64
+  dependencies: {}
+  url: https://files.pythonhosted.org/packages/47/6a/62e288da7bcda82b935ff0c6cfe542970f04e29c756b0e147251b2fb251f/wget-3.2.zip
+  hash:
+    sha256: 35e630eca2aa50ce998b9b1a127bb26b30dfee573702782aa982f875e3f16061
   category: main
   optional: false
