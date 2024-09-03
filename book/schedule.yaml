@@ -3,7 +3,7 @@ tabs:
 - title: Day 1
   date: Monday 09 September
   contents:
-  - title: Welcome & Lunch
+  - title: Welcome & Catered Lunch
     description: Welcome and getting to know each other over lunch.
     time: 13:00 - 13:30
     location: eScience Institute
@@ -26,21 +26,25 @@ tabs:
   - title: Happy Hour
     description: Social gathering
     time: 17:15 - 18:00
-    location: To be determined
+    location: Big Time Brewery
 - title: Day 2
   date: Tuesday 10 September
   contents:
-  - title: Coffee Connect & Standup
-    description: Teams provide 2-minute updates on their progress so far and goals for the day over coffee and refreshments.
+  - title: Coffee Connect with Breakfast & Standup
+    description: Teams provide 2-minute updates on their progress so far and goals for the day over coffee and breakfast.
     time: 8:30 - 9:00
     location: Physics 520
   - title: CAT Presentation
     description: The Collaborating Across Threads (CAT) team will share methods and preliminary results from their analyses.
-    time: 9:00 - 9:45
+    time: 9:00 - 9:30
     location: Physics 520, remote option
-  - title: Hands-on Exercise
-    description: To be determined
-    time: 9:45-10:45
+  - title: Break
+    description: null
+    time: 9:30 - 9:40
+    location: null
+  - title: Hands-on Exercise - AI for Data Integration
+    description: Tutorial-assisted exercise led by Jason Stock
+    time: 9:40 - 10:45
   - title: Break
     description: null
     time: 10:45 - 11:00
@@ -49,36 +53,36 @@ tabs:
     description: Guided discussion on challenges and opportunities related to integration of social and environmental datasets.
     time: 11:00 - 12:30
     location: Physics 520, remote option
-  - title: Lunch
+  - title: Catered Lunch
     description: null
     time: 12:30 - 13:30
-  - title: Team work time
+  - title: Team Work Time
     description: null
     time: 13:30 - 17:00
-    location: Teams will be assigned workspaces and are welcome to incorporate remote members.
+    location: Teams are assigned workspaces and welcome to incorporate remote members.
 - title: Day 3
   date: Wednesday 11 September
   contents:
-  - title: Coffee Connect & Standup
-    description: Teams provide and floaters provide 5-minute updates on their progress so far and goals for the day over coffee and refreshments.
+  - title: Coffee Connect with Breakfast & Standup
+    description: Teams and floaters provide 5-minute updates on their progress so far and goals for the day over coffee and breakfast.
     time: 8:30 - 9:30
     location: Physics 520
   - title: Team Work Time
     description: A dedicated day for team work time, with lunch and dinner on your own.
     time: 9:30 - 17:00
-    location: Teams will be assigned workspaces and are welcome to incorporate remote members.
+    location: Teams are assigned workspaces and welcome to incorporate remote members.
   - title: Floater Drop-in Hours
     description: Floaters will be available for drop-in questions.
     time: 9:30 - 10:30
     location: eScience Institute
   - title: Floater Drop-in Hours
-    description: null
+    description: Floaters will be available for drop-in questions.
     time: 13:30 - 14:30
     location: eScience Institute
 - title: Day 4
   date: Thursday 12 September
   contents:
-  - title: Coffee Connect
+  - title: Coffee Connect with Breakfast
     description: null
     time: 8:30 - 9:00
     location: Physics 520
@@ -98,7 +102,7 @@ tabs:
     description: Guided discussion with experts in our community on how to analyze and represent different kinds of uncertainties that surface with integration of diverse datasets.
     time: 11:00 - 12:30
     location: Physics 520, remote option
-  - title: Lunch
+  - title: Catered Lunch
     description: null
     time: 12:30 - 13:30
     location: null
@@ -122,8 +126,8 @@ tabs:
     description: Floaters will kickoff, followed by open discussion around key takeaways from the hack week. 
     time: 16:00 - 16:45
     location: Physics 520, remote option
-  - title: Dinner
-    description: null
+  - title: Community Dinner
+    description: All D4 Hack Week participants are invited to dinner at Mamma Melina.
     time: 18:00 - 20:00
     location: Mamma Melina
 - title: Day 5
@@ -133,3 +137,4 @@ tabs:
     description: Discussion for debriefing the hack week and discussing next steps (optional for participants; organizers expected to attend).
     time: 10:00 - 12:00
     location: eScience Institute - Meeting Room
+    

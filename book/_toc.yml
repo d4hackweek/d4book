@@ -8,7 +8,7 @@ parts:
     - file: logistics
     - title: Schedule
       url: https://d4hackweek.github.io/d4book/index.html?jump_to=schedule
-    - title: Team
+    - title: Organizing Team
       url: https://d4hackweek.github.io/d4book/index.html?jump_to=team
     - file: CoC
 - caption: Preparation and Technical Details
