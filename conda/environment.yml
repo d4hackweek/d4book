@@ -14,6 +14,7 @@ dependencies:
   - jupyterhub-singleuser
   - jupyterlab
   - jupytext
+  - notebook
   - pip
   - python=3.11
   - sphinxcontrib-bibtex
@@ -30,11 +31,19 @@ dependencies:
   - matplotlib
   - pandas
   - scipy
+  - rasterio
+  - cenpy
+  - census
+  - scikit-learn
   - folium
   - geopandas
   - tropycal
   - xarray
   - cartopy
+  - geoplot
   - netcdf4
+  - tqdm
   - pip:
+    - us
+    - wget
     - jinja-markdown==1.210911

@@ -7,8 +7,10 @@ Below you'll find a table keeping track of all tutorials presented at this event
 | Tutorial                                                            | Topics                                      | Datasets                  |
 |---------------------------------------------------------------------|---------------------------------------------|---------------------------|
 | [Machine Learning](./machine-learning/ml-tutorial-notebook.ipynb)   | Machine Learning, Deep Learning             | California Housing, MNIST |
+| [Data_Integration](./Data_Integration/Basic_Data_Integration.ipynb) | Basics for data downloading, processing, and integration | US Census, California Power Plants, Lakes in watersheds, Ocean surface temperature anomalies |
 | [Storm Events Database](./Storm_Events/Storm_Events_Tutorial.ipynb) | Downloading and analyzing storm events data | NOAA Storm Events Data    |
 | [Precipitation with NCEI](./NCEI_Tutorial/Precipitation_with_NCEI_Tutorial.ipynb) | Analyzing precipitation data | NOAA Global Historical Climatology Network Daily    |
 | [Reproducibly Accessing Census Data in R](https://github.com/d4hackweek/D4-Census-in-R-Python) | Accessing Census Data | U.S. Census |
 | [Tropycal](./Tropycal/Tropycal.ipynb) | Tropical cyclone data analysis and plotting | NHC |
 | [IBTrACS](./IBTrACS/Using_IBTrACS.ipynb) | Tropical cyclone tabular data | NHC |
+

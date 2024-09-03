@@ -27,6 +27,7 @@ parts:
         - file: tutorials/NCEI_Tutorial/Precipitation_with_NCEI_Tutorial.ipynb
         - file: tutorials/Tropycal/Tropycal.ipynb
         - file: tutorials/IBTrACS/Using_IBTrACS.ipynb
+        - file: tutorials/Data_Integration/Basic_Data_Integration.ipynb
 - caption: Teams
   chapters:
     - file: teams/index
