@@ -11,6 +11,7 @@ parts:
     - title: Organizing Team
       url: https://d4hackweek.github.io/d4book/index.html?jump_to=team
     - file: CoC
+    - file: remote_participation
 - caption: Preparation and Technical Details
   chapters:
     - file: preliminary/index
