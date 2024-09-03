@@ -33,7 +33,7 @@ tabs:
   - title: Coffee Connect with Breakfast & Standup
     description: Teams provide 2-minute updates on their progress so far and goals for the day over coffee and breakfast.
     time: 8:30 - 9:00
-    location: Physics 520
+    location: eScience Common Area
   - title: CAT Presentation
     description: The Collaborating Across Threads (CAT) team will share methods and preliminary results from their analyses.
     time: 9:00 - 9:30
@@ -66,7 +66,7 @@ tabs:
   - title: Coffee Connect with Breakfast & Standup
     description: Teams and floaters provide 5-minute updates on their progress so far and goals for the day over coffee and breakfast.
     time: 8:30 - 9:30
-    location: Physics 520
+    location: eScience Common Area
   - title: Team Work Time
     description: A dedicated day for team work time, with lunch and dinner on your own.
     time: 9:30 - 17:00
@@ -85,7 +85,7 @@ tabs:
   - title: Coffee Connect with Breakfast
     description: null
     time: 8:30 - 9:00
-    location: Physics 520
+    location: eScience Common Area
   - title: Presentations
     description: Three teams will have 30 minutes each to present their project and answer questions.
     time: 9:00 - 10:30
