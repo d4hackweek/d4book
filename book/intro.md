@@ -19,33 +19,8 @@ This JupyterBook contains the information you need as a participant in the D4 Ha
 * JupyterHub: {{jupyterhub_url}}
 `````
 
-```{image} ./img/NOAA-logo.png
-:alt: NOAA logo
-:width: 300px
+```{image} ./img/D4-logos.png
+:alt: D4 logos
+:width: 500px
 :align: center
 ```
-
-```{image} ./img/CSDE-logo.png
-:alt: CSDE logo
-:width: 300px
-:align: center
-```
-
-```{image} ./img/eScience-logo.png
-:alt: eScience logo
-:width: 300px
-:align: center
-```
-
-```{image} ./img/AI2ES-logo.png
-:alt: AI2ES logo
-:width: 300px
-:align: center
-```
-
-```{image} ./img/NCAR-logo.png
-:alt: NCAR logo
-:width: 300px
-:align: center
-```
-
