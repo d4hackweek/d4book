@@ -5,8 +5,8 @@ For questions related to travel, reimbursement, lodging, etc. please reach out t
 ## Wireless
 
 -   WiFi: University of Washington
--   UW NetID: TBD
--   Password: TBD
+-   UW NetID: event0212
+-   Password: 64WZ-95CY-34YN
 
 ## Location
 

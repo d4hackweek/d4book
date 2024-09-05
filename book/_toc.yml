@@ -28,6 +28,8 @@ parts:
         - file: tutorials/NCEI_Tutorial/Precipitation_with_NCEI_Tutorial.ipynb
         - file: tutorials/Tropycal/Tropycal.ipynb
         - file: tutorials/IBTrACS/Using_IBTrACS.ipynb
+        - title: UWDC & NWFSRDC
+          url: https://docs.google.com/presentation/d/16uVIiVkF30LJhzRqhZGtwfbcmj4fV2fn/edit
         - file: tutorials/Data_Integration/Basic_Data_Integration.ipynb
 - caption: Teams
   chapters:
