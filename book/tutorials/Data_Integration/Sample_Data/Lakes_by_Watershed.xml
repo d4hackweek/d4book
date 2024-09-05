@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20171026</pubdate>
+                <title>Lakes by Watershed - ACE [ds2762]</title>
+                <geoform>vector digital data</geoform>
+                <onlink>https://wildlife.ca.gov/Data/BIOS</onlink>
+                <onlink>https://map.dfg.ca.gov/ace/</onlink>
+                <onlink>https://filelib.wildlife.ca.gov/Public/BDB/GIS/BIOS/Public_Datasets/2700_2799/ds2762.zip</onlink>
+                <onlink>https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=150855</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>For more information, see the Aquatic Significant Habitats Factsheet at https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=150855. The California Department of Fish and Wildlife’s (CDFW) Areas of Conservation Emphasis (ACE) is a compilation and analysis of the best-available statewide spatial information in California on biodiversity, rarity and endemism, harvested species, significant habitats, connectivity and wildlife movement, climate vulnerability, climate refugia, and other relevant data (e.g., other conservation priorities such as those identified in the State Wildlife Action Plan (SWAP), stressors, land ownership). ACE addresses both terrestrial and aquatic data. The ACE model combines and analyzes terrestrial information in a 2.5 square mile hexagon grid and aquatic information at the HUC12 watershed level across the state to produce a series of maps for use in non-regulatory evaluation of conservation priorities in California. The model addresses as many of CDFWs statewide conservation and recreational mandates as feasible using high quality data sources. High value areas statewide and in each USDA Ecoregion were identified. The ACE maps and data can be viewed in the ACE online map viewer, or downloaded for use in ArcGIS. For more detailed information see https://www.wildlife.ca.gov/Data/Analysis/ACE and https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=24326. </abstract>
+            <purpose>Lakes by Watershed, Areas of Conservation Emphasis (ACE), version 3.0. 
+
+The Significant Aquatic Habitats dataset is one of the components of the California Department of Fish and Wildlife’s (CDFW) Areas of Conservation Emphasis (ACE) suite of aquatic conservation information. The Significant Aquatic Habitats dataset provides a variety of information on aquatic habitats to help determine the likelihood of the presence of habitat or vegetation that are the focus of state, national, or locally legislated conservation laws, as well as significant habitat areas essential to the survival of specific species of conservation concern. Aquatic habitat data are synthesized from information on vegetation and land cover, and species-specific habitat information. The number of significant habitats in a watershed is summarized in the Significant Aquatic Habitat Summary, and a reference to the original vegetation, landcover, or other datasets that map the significant habitat elements is provided for each watershed. 
+
+The Aquatic Significant Habitats data set is expected to be used along with other ACE datasets to provide a robust assessment of the presence and relative importance of elements important for biodiversity conservation. </purpose>
+            <supplinf>See the ACE Technical Report for a detailed description of data inputs and analyses at https://nrmsecure.dfg.ca.gov/FileHandler.ashx?DocumentID=24326. </supplinf>
+        </descript>
+        <status>
+            <update>Unknown</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-124.506169</westbc>
+                <eastbc>-113.497869</eastbc>
+                <northbc>42.068507</northbc>
+                <southbc>32.423754</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>terrestrial, biodiversity, native, richness, rare, rarity, endemic, sensitive haibtat, ACE, riparian, wetland, rare natural community, game, bird, reptile, amphibian, mammal, plant</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>biota</themekey>
+                <themekey>environment</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>California</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>License: This work is licensed under Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/). Using the citation standards recommended for BIOS datasets (https://www.wildlife.ca.gov/Data/BIOS/Citing-BIOS) satisfies the attribution requirements of this license. Disclaimer: The State makes no claims, promises, or guarantees about the accuracy, completeness, reliability, or adequacy of these data and expressly disclaims liability for errors and omissions in these data. No warranty of any kind, implied, expressed, or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose, and freedom from computer virus, is given with respect to these data. The ACE data is subject to certain assumptions and limitations that must be considered in any use or application of the data. All ACE data layers are limited by the accuracy and scale of the input data. ACE is a compilation of the best available scientific information; however, many of these datasets are not comprehensive across the landscape, may change over time, and should be revised and improved as new data become available. The user accepts sole responsibility for the correct interpretation and use of these data, and agrees not to misrepresent these data. CDFW makes no warranty of any kind regarding these data, express or implied. By downloading these datasets, the user understands that these data are in draft condition and subject to change at any time as new information becomes available. The user will not seek to hold the State or the Department liable under any circumstances for any damages with respect to any claim by the user or any third party on account of or arising from the use of data or maps. CDFW reserves the right to modify or replace these datasets without notification. The ACE maps display biological and recreational values based on available data and constrained by the limitations of the data. The values may be influenced by level of survey effort in a given area. The ACE data represent broad-scale patterns across the landscape, and the value of any single watershed should be interpreted with caution. ACE is a decision-support tool to be used in conjunction with species-specific information and local-scale conservation prioritization analyses. The ACE maps do not replace the need for site-specific evaluation of biological resources and should not be used as the sole measure of conservation priority during planning. No statement or dataset shall by itself be considered an official response from a state agency regarding impacts to wildlife resulting from a management action subject to the California Environmental Quality Act (CEQA). License: This work is licensed under Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/). Using the citation standards recommended for BIOS datasets (https://www.wildlife.ca.gov/Data/BIOS/Citing-BIOS) satisfies the attribution requirements of this license. Disclaimer: The State makes no claims, promises, or guarantees about the accuracy, completeness, reliability, or adequacy of these data and expressly disclaims liability for errors and omissions in these data. No warranty of any kind, implied, expressed, or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose, and freedom from computer virus, is given with respect to these data.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>California Department of Fish and Wildlife</cntorg>
+                    <cntper>Melanie Gogol-Prokurat</cntper>
+                </cntorgp>
+                <cntpos>Conservation Analysis Unit Coordinator</cntpos>
+                <cntvoice>(916) 324-9265</cntvoice>
+                <cntemail>melanie.gogol-prokurat@wildlife.ca.gov</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>California Department of Fish and Wildlife</cntorg>
+                    <cntper>Melanie Gogol-Prokurat</cntper>
+                </cntorgp>
+                <cntpos>Conservation Analysis Unit Coordinator</cntpos>
+                <cntvoice>(916) 324-9265</cntvoice>
+                <cntemail>melanie.gogol-prokurat@wildlife.ca.gov</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <datacred>ACE Areas of Conservation Emphasis; Program Lead; California Department of Fish and Wildlife (CDFW); Biogeographic Data Branch; ; ; ; ACE@wildlife.ca.gov; </datacred>
+        <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.1.9270</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>4473</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>ds2762</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Coordinates defining the features.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>HUC12</attrlabl>
+                <attrdef>Unique 12 digit Hydrologic Unit Code for the HUC 12 watershed. Compiled from U.S. Geological Survey (USGS) National Hydrography Dataset (NHD) and U.S. Department of Agricultural (USDA) National Resources Conservation Services (NRCS) Watershed Boundary Dataset (WBD) sources.</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>Name</attrlabl>
+                <attrdef>Name of the HUC 12 watershed.</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>Lakes</attrlabl>
+                <attrdef>Presence or absence of lakes in the HUC 12 watershed. Indicated as “Y” if present and “N” if absent.</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>Lakes_datasets</attrlabl>
+                <attrdef>List of lake datasets that overlap each HUC 12 watershed.</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Area</attrlabl>
+                <attrdef>Area of feature in internal units squared.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20240722</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>California Department of Fish and Wildlife</cntorg>
+                    <cntper>Melanie Gogol-Prokurat</cntper>
+                </cntorgp>
+                <cntpos>Conservation Analysis Unit Coordinator</cntpos>
+                <cntvoice>(916) 324-9265</cntvoice>
+                <cntemail>melanie.gogol-prokurat@wildlife.ca.gov</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

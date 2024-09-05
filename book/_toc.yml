@@ -30,6 +30,7 @@ parts:
         - file: tutorials/IBTrACS/Using_IBTrACS.ipynb
         - title: UWDC & NWFSRDC
           url: https://docs.google.com/presentation/d/16uVIiVkF30LJhzRqhZGtwfbcmj4fV2fn/edit
+        - file: tutorials/Data_Integration/Basic_Data_Integration.ipynb
 - caption: Teams
   chapters:
     - file: teams/index
