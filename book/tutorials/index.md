@@ -12,3 +12,4 @@ Below you'll find a table keeping track of all tutorials presented at this event
 | [Reproducibly Accessing Census Data in R](https://github.com/d4hackweek/D4-Census-in-R-Python) | Accessing Census Data | U.S. Census |
 | [Tropycal](./Tropycal/Tropycal.ipynb) | Tropical cyclone data analysis and plotting | NHC |
 | [IBTrACS](./IBTrACS/Using_IBTrACS.ipynb) | Tropical cyclone tabular data | NHC |
+| [UWDC & NWFSRDC](https://docs.google.com/presentation/d/16uVIiVkF30LJhzRqhZGtwfbcmj4fV2fn/edit#slide=id.p1) | UW restricted data resources | UW Data Collaborative; Northwest Federal Statistical Data Research Center|
