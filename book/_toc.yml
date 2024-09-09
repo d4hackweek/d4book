@@ -12,6 +12,8 @@ parts:
       url: https://d4hackweek.github.io/d4book/index.html?jump_to=team
     - file: CoC
     - file: remote_participation
+    - title: Press Release
+      url: https://csde.washington.edu/news-events/2024-d4-hack-week-disasters-demography-disparities-and-decisions-presentations/
 - caption: Preparation and Technical Details
   chapters:
     - file: preliminary/index
@@ -19,18 +21,23 @@ parts:
     - file: preliminary/git
     - file: preliminary/NCAR
     - file: preliminary/project_scoping
+    - file: preliminary/presentation_guidelines
 - caption: Tutorials
   chapters:
     - file: tutorials/index
       sections:
         - file: tutorials/machine-learning/ml-tutorial-notebook
+        - file: tutorials/Data_Integration/Basic_Data_Integration.ipynb
         - file: tutorials/Storm_Events/Storm_Events_Tutorial.ipynb
         - file: tutorials/NCEI_Tutorial/Precipitation_with_NCEI_Tutorial.ipynb
+        - title: Census Data in R & Python
+          url: https://github.com/d4hackweek/D4-Census-in-R-Python
         - file: tutorials/Tropycal/Tropycal.ipynb
         - file: tutorials/IBTrACS/Using_IBTrACS.ipynb
         - title: UWDC & NWFSRDC
           url: https://docs.google.com/presentation/d/16uVIiVkF30LJhzRqhZGtwfbcmj4fV2fn/edit
-        - file: tutorials/Data_Integration/Basic_Data_Integration.ipynb
+        - title: SHELDUS
+          url: https://drive.google.com/drive/folders/16BqJsNXB07NW3Qs9-g3SNtalDG3_97Dv?usp=sharing 
 - caption: Teams
   chapters:
     - file: teams/index
