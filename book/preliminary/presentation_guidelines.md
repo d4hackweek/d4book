@@ -1,10 +1,10 @@
-# Final Presentation Guidelines
+# Presentation Guidelines
 
-The purpose of Thursday’s presentation is for you to share with everyone else what you and your team have done, and show us a few results and/or steps toward results that address challenges like those highlighted below. 
+The purpose of Thursday’s presentation is for you to share with everyone else what you and your team have done, and show us a few results and/or steps toward results that address challenges like those highlighted below.
 
 Each team will have 30 minutes to share, including time for questions. We encourage you to keep your presentation under 15 minutes.
 
-Please keep your presentation fairly informal and short, to allow time for Q&A. 
+Please keep your presentation fairly informal and short, to allow time for Q&A.
 
 You are welcome to create a slide deck if you like, but there is no need for highly polished slides given the short duration of this event.
 
