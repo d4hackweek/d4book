@@ -13,7 +13,7 @@ Here is our current list of project for our {{dates}} {{ hackweek }}:
 | [Columbia Hurricane Migration](03)                               | Fabien Cottier, Mona Hemmati, Andrew Kruczkiewicz, and Kytt MacManus                              |
 | [Disaster Demography](04)                 | Deborah Balk, Dylan Connor, Melanie Gall, Lori Hunter, Jenna Tipaldo, and Helen Wilson Burns      |
 | [The Floodsters](05)                        | ChangHoon (Chang) Hahn, Sharif Islam, and Lidia Cano     
-| [FSU & Penn State](06)                       | Mathew Hauer, Alexis Santos, and Sunshine Jacobs | 
+| [Demografires](06)                       | Mathew Hauer, Alexis Santos, and Sunshine Jacobs | 
 | [Migration Mavericks](07)    | Ethan Sharygin, Justin Stoler, and Mary Angelica Painter                                          |
 | [Floaters](08)                               | Jason Stock, Tyler Fricker, and Patrick Greiner                                                   |
 | [CAT Demonstration Project](09)             |  Andrea Schumacher, Julie Demuth, DJ Gagne, Jorge Celis, Amy McGovern, Sara Curran, Sameer Shah, Masha Vernik, Ann Bostrom |

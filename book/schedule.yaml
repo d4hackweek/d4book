@@ -87,7 +87,7 @@ tabs:
     time: 8:30 - 9:00
     location: eScience Common Area
   - title: Presentations
-    description: Three teams will have 30 minutes each to present their project and answer questions.
+    description: Three teams (Migration Mavericks, DEMUS, Columbia Hurricane Migration) will have 30 minutes each to present their project and answer questions.
     time: 9:00 - 10:30
     location: Physics 520, remote option
   - title: Break
@@ -107,7 +107,7 @@ tabs:
     time: 12:30 - 13:30
     location: null
   - title: Presentations
-    description: Two teams will have 30 minutes each to present their project and answer questions.
+    description: Two teams (Demografires, Claim to Flame) will have 30 minutes each to present their project and answer questions.
     time: 13:30 - 14:30
     location: Physics 520, remote option
   - title: Break
@@ -119,7 +119,7 @@ tabs:
     time: 14:45 - 15:00
     location: Physics 520
   - title: Presentations
-    description: Two teams will have 30 minutes each to present their project and answer questions.
+    description: Two teams (Floodsters, Disaster Demography) will have 30 minutes each to present their project and answer questions.
     time: 15:00 - 16:00
     location: Physics 520, remote option
   - title: Closing discussion
