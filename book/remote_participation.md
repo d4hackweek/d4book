@@ -29,8 +29,7 @@ Panelists: Andrea Schumacher, Matt Dunbar, Tyler Fricker
 ## Thursday, September 12th
 
 **9:00 - 10:30 AM: Presentations**
-
-Three teams will have 30 minutes each to present (informally) their methods, challenges, and findings, including time for questions/discussion.
+Three teams (Migration Mavericks, DEMUS, Columbia Hurricane Migration) will have 30 minutes each to present (informally) their methods, challenges, and findings, including time for questions/discussion.
 
 **10:45 - 11:00 AM: CAT Update**
 
@@ -44,11 +43,11 @@ Panelists: David John Gagne, Julie Demuth, Jessica Godwin
 
 **1:30 - 2:30 PM: Presentations**
 
-Two teams will have 30 minutes each to present (informally) their methods, challenges, and findings, including time for questions/discussion.
+Two teams (Demografires, Claim to Flame) will have 30 minutes each to present (informally) their methods, challenges, and findings, including time for questions/discussion.
 
 **3:00 - 4:00 PM: Presentations**
 
-Two teams will have 30 minutes each to present (informally) their methods, challenges, and findings, including time for questions/discussion.
+Two teams (Floodsters, Disaster Demography) will have 30 minutes each to present (informally) their methods, challenges, and findings, including time for questions/discussion.
 
 **4:00 - 4:45 PM: Closing Plenary Discussion**
 

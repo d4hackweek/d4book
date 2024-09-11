@@ -22,3 +22,13 @@ Make sure everyone on your team gets a chance to speak about their D4 hack week 
 - How granular (spatially, temporally) do the data have to be to understand social and ecological vulnerabilities in a way that is meaningful for policy design? 
 - How can we know that the environmental and demographic/social phenomena are related to each other, especially when we may lack certain data products that represent fundamental, mediating socio-economic relationships (e.g. how land parcels are owned, as well as transacted and built upon), or even the quality of such products (e.g., spatial data)? 
 - What are the most promising strategies for accessing, integrating, and making openly available integrated environmental, demographic, and related social data (and the code that links those data) so that privacy/confidentiality/intellectual property rights or other ethical guidelines are upheld?
+
+## Presentation Order
+1. Migration Mavericks
+2. DEMUS
+3. Columbia Hurricane Migration
+4. CAT Demonstration 
+5. Demografires
+6. Claim to Flame
+7. Floodsters
+8. Disaster Demography
