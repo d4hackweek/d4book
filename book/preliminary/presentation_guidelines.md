@@ -25,10 +25,10 @@ Make sure everyone on your team gets a chance to speak about their D4 hack week 
 
 ## Presentation Order
 1. Migration Mavericks
-2. DEMUS
-3. Columbia Hurricane Migration
+2. Columbia Hurricane Migration
+3. Floodsters
 4. CAT Demonstration 
 5. Demografires
 6. Claim to Flame
-7. Floodsters
+7. DEMUS
 8. Disaster Demography
